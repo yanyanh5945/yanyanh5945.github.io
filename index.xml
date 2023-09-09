@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiaolong Wei</title>
-    <link>https://xiaolongw1223.github.io/</link>
-      <atom:link href="https://xiaolongw1223.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xiaolong Wei</description>
+    <title>Yanyan Hu</title>
+    <link>https://yanyanh5945.github.io/</link>
+      <atom:link href="https://yanyanh5945.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanyan Hu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xiaolongw1223.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Xiaolong Wei</title>
-      <link>https://xiaolongw1223.github.io/</link>
+      <url>https://yanyanh5945.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Yanyan Hu</title>
+      <link>https://yanyanh5945.github.io/</link>
     </image>
     
     <item>
       <title>DL 3D gravity inversion</title>
-      <link>https://xiaolongw1223.github.io/publication/2023_deep_learning_inv/</link>
+      <link>https://yanyanh5945.github.io/publication/2023_deep_learning_inv/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2023_deep_learning_inv/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2023_deep_learning_inv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Monte Carlo inversion</title>
-      <link>https://xiaolongw1223.github.io/publication/2023_3d_monte_carlo/</link>
+      <link>https://yanyanh5945.github.io/publication/2023_3d_monte_carlo/</link>
       <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2023_3d_monte_carlo/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2023_3d_monte_carlo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-salt reconstruction</title>
-      <link>https://xiaolongw1223.github.io/publication/2023_multi_salt_reconstruction/</link>
+      <link>https://yanyanh5945.github.io/publication/2023_multi_salt_reconstruction/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2023_multi_salt_reconstruction/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2023_multi_salt_reconstruction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-salt reconstruction</title>
-      <link>https://xiaolongw1223.github.io/project/multi_salt_reconstruction/</link>
+      <link>https://yanyanh5945.github.io/project/multi_salt_reconstruction/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/multi_salt_reconstruction/</guid>
+      <guid>https://yanyanh5945.github.io/project/multi_salt_reconstruction/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;The recovered mean model without using any constraint.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
@@ -50,41 +50,41 @@
     
     <item>
       <title>Quantifying uncertainty of salt body shapes recovered from gravity data using trans-dimensional Markov chain Monte Carlo sampling</title>
-      <link>https://xiaolongw1223.github.io/publication/2022_uncertainty_salt_shape/</link>
+      <link>https://yanyanh5945.github.io/publication/2022_uncertainty_salt_shape/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2022_uncertainty_salt_shape/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2022_uncertainty_salt_shape/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D probabilistic geology differentiation based on airborne geophysics, mixed L p norm joint inversion and physical property measurements</title>
-      <link>https://xiaolongw1223.github.io/publication/2022_probabilistic_differentiation/</link>
+      <link>https://yanyanh5945.github.io/publication/2022_probabilistic_differentiation/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2022_probabilistic_differentiation/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2022_probabilistic_differentiation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A deep learning enhanced framework for multi-physics joint inversion</title>
-      <link>https://xiaolongw1223.github.io/publication/2022_deep_learning/</link>
+      <link>https://yanyanh5945.github.io/publication/2022_deep_learning/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2022_deep_learning/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2022_deep_learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping critical mineral resources using airborne geophysics, 3D joint inversion and geology differentiation: A case study of a buried niobium deposit in the Elk Creek carbonatite, Nebraska, USA</title>
-      <link>https://xiaolongw1223.github.io/publication/2022_elk_creek/</link>
+      <link>https://yanyanh5945.github.io/publication/2022_elk_creek/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2022_elk_creek/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2022_elk_creek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Monte Carlo gravity inversion</title>
-      <link>https://xiaolongw1223.github.io/project/3d_monte_carlo_gravity_inversion/</link>
+      <link>https://yanyanh5945.github.io/project/3d_monte_carlo_gravity_inversion/</link>
       <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/3d_monte_carlo_gravity_inversion/</guid>
+      <guid>https://yanyanh5945.github.io/project/3d_monte_carlo_gravity_inversion/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;The recovered 3D mean model.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
@@ -94,9 +94,9 @@
     
     <item>
       <title>3D deep learning gravity inversion</title>
-      <link>https://xiaolongw1223.github.io/project/3d_deep_learning_gravity_inversion/</link>
+      <link>https://yanyanh5945.github.io/project/3d_deep_learning_gravity_inversion/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/3d_deep_learning_gravity_inversion/</guid>
+      <guid>https://yanyanh5945.github.io/project/3d_deep_learning_gravity_inversion/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;A realistic synthetic model set consists of a randomly generated 3D anomalous body (i.e., brownish object), simulated topography (i.e., intermediate layer) and geophysical response (i.e., top layer). In our work, we generated a large sequence of realistic synthetic models as the training and test sets for the network.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
@@ -106,9 +106,9 @@
     
     <item>
       <title>Quantifying uncertainty of salt body shapes</title>
-      <link>https://xiaolongw1223.github.io/project/quantifying_uncertainty_of_salt_body_shapes/</link>
+      <link>https://yanyanh5945.github.io/project/quantifying_uncertainty_of_salt_body_shapes/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/quantifying_uncertainty_of_salt_body_shapes/</guid>
+      <guid>https://yanyanh5945.github.io/project/quantifying_uncertainty_of_salt_body_shapes/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;The recovered 2D SEG-EAGE salt models without (a) and with (b) constraint. The reconstructed Sigsbee salt models without (c) and with (d) constraint.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
@@ -118,17 +118,17 @@
     
     <item>
       <title>Uncertainty analysis of 3D potential-field deterministic inversion using mixed L p norms</title>
-      <link>https://xiaolongw1223.github.io/publication/2021_uncertainty/</link>
+      <link>https://yanyanh5945.github.io/publication/2021_uncertainty/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2021_uncertainty/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2021_uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data driven prospecting for Irish type deposits</title>
-      <link>https://xiaolongw1223.github.io/project/data_driven_prospecting_for_irish_type_deposits/</link>
+      <link>https://yanyanh5945.github.io/project/data_driven_prospecting_for_irish_type_deposits/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/data_driven_prospecting_for_irish_type_deposits/</guid>
+      <guid>https://yanyanh5945.github.io/project/data_driven_prospecting_for_irish_type_deposits/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;The first and second row show the enhanced gravity and magnetic data maps, respectively. The horizontal, vertical, north-west and tilt derivatives are displayed from left to right.&lt;/p&gt;
 &lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
@@ -139,9 +139,9 @@
     
     <item>
       <title>Deep learning enhanced joint inversion</title>
-      <link>https://xiaolongw1223.github.io/project/deep_learning_enhanced_joint_inversion/</link>
+      <link>https://yanyanh5945.github.io/project/deep_learning_enhanced_joint_inversion/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/deep_learning_enhanced_joint_inversion/</guid>
+      <guid>https://yanyanh5945.github.io/project/deep_learning_enhanced_joint_inversion/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;The deep learning enhanced joint inversion framework.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
@@ -152,9 +152,9 @@
     
     <item>
       <title>Diamond exploration</title>
-      <link>https://xiaolongw1223.github.io/project/diamond_exploration/</link>
+      <link>https://yanyanh5945.github.io/project/diamond_exploration/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/diamond_exploration/</guid>
+      <guid>https://yanyanh5945.github.io/project/diamond_exploration/</guid>
       <description>&lt;p&gt;I first heard about one of the 21 century most successful and well-known marking slogan “A Diamond Is Forever&amp;quot; when I was in the middle school. I had no idea how much this slogan would affect the romantic relationships of young people, until few years late when I was ready for my marriage proposal and needed to purchase a “sizeable” diamond engagement ring. The magic relation of me and diamond has not been ended yet.&lt;/p&gt;
 &lt;p&gt;After a couple of years, thank my Ph.D. advisor, I was pleasured to be involved into a project focusing on the diamond exploration, to be geological, identifying Kimberlite based on the multiple geophysical responses. Due to the confidential policy, we cannot reveal any result of this project. But I would like to describe our general workflow and share the one important lesson that we learned from this practical project.&lt;/p&gt;
 &lt;p&gt;We utilized airborne gravity gradiometry, magnetic and electromagnetic data to, respectively, recover subsurface density, susceptibility and conductivity models. The subsurface system was differentiated into multiple geological units based on various physical property characteristics. We referred this procedure to as &lt;a href=&#34;https://sites.google.com/view/jiajiasun/research/geology-differentiation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geology differentiation&lt;/a&gt;. Few identified geological units are consistent with the known dykes and Kimberlites, and show several prospective areas for Kimberlite exploration in future.&lt;/p&gt;
@@ -168,9 +168,9 @@
     
     <item>
       <title>Probabilistic geology differentiation</title>
-      <link>https://xiaolongw1223.github.io/project/probabilistic_geology_differentiation/</link>
+      <link>https://yanyanh5945.github.io/project/probabilistic_geology_differentiation/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/probabilistic_geology_differentiation/</guid>
+      <guid>https://yanyanh5945.github.io/project/probabilistic_geology_differentiation/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;(Top) The probabilities of spatial distribution for Units 2 to 9. Warmer colors represent higher probabilities, and colder colors indicate lower probabilities. (Bottom) The probabilities of geological units at different locations indicated by black boxes.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
@@ -181,25 +181,25 @@
     
     <item>
       <title>Recovering sparse models in 3D potential‐field inversion without bound dependence or staircasing problems using a mixed Lp‐norm regularization</title>
-      <link>https://xiaolongw1223.github.io/publication/2020_sparse/</link>
+      <link>https://yanyanh5945.github.io/publication/2020_sparse/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2020_sparse/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2020_sparse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unveiling the 3D undercover structure of a Precambrian intrusive complex by integrating airborne magnetic and gravity gradient data into 3D quasi-geology model building</title>
-      <link>https://xiaolongw1223.github.io/publication/2020_decorah/</link>
+      <link>https://yanyanh5945.github.io/publication/2020_decorah/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/publication/2020_decorah/</guid>
+      <guid>https://yanyanh5945.github.io/publication/2020_decorah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A critical mineral exploration – Niobium</title>
-      <link>https://xiaolongw1223.github.io/project/critical_mineral_exploration/</link>
+      <link>https://yanyanh5945.github.io/project/critical_mineral_exploration/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/critical_mineral_exploration/</guid>
+      <guid>https://yanyanh5945.github.io/project/critical_mineral_exploration/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;Spatial distribution of identified geological Unit 7, 8, 9 and 11 with drillhole locations as well as assay measurements. (a) is a depth slice at the elevation of -800-m in where the green dots indicate locations of drillholes, (b) and (c) are vertical cross-sections of 4461000-m. The colored dots in (b) and (c) represent, respectively, the percent concentrations of Nb2o5 and REO (rare earth oxides).&lt;/p&gt;
 &lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
@@ -210,9 +210,9 @@
     
     <item>
       <title>Uncertainty analysis of potential field data inversion</title>
-      <link>https://xiaolongw1223.github.io/project/uncertainty_analysis_of_potential_field_data_inversion/</link>
+      <link>https://yanyanh5945.github.io/project/uncertainty_analysis_of_potential_field_data_inversion/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/uncertainty_analysis_of_potential_field_data_inversion/</guid>
+      <guid>https://yanyanh5945.github.io/project/uncertainty_analysis_of_potential_field_data_inversion/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;A set of recovered density models range from a wide spectrum of model features with the depth slices at -2000 m (upper) and cross sections at 4790800 m (lower). We note that these models contain the consistent level of data fitting. The diverse model characteristics reveal the uncertainties of gravity gradient inversions.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
@@ -222,9 +222,9 @@
     
     <item>
       <title>3D undercover structure of Precambrian intrusion</title>
-      <link>https://xiaolongw1223.github.io/project/3d_undercover_structure_of_precambrian_intrusion/</link>
+      <link>https://yanyanh5945.github.io/project/3d_undercover_structure_of_precambrian_intrusion/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/project/3d_undercover_structure_of_precambrian_intrusion/</guid>
+      <guid>https://yanyanh5945.github.io/project/3d_undercover_structure_of_precambrian_intrusion/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;A 3D view of the newly identified geological units based on joint inversion results.&lt;/p&gt;
 &lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
@@ -234,9 +234,9 @@
     
     <item>
       <title>About Me</title>
-      <link>https://xiaolongw1223.github.io/about/</link>
+      <link>https://yanyanh5945.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/about/</guid>
+      <guid>https://yanyanh5945.github.io/about/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_english.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Download my full CV in PDF&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
@@ -244,7 +244,7 @@
 &lt;ul&gt;
 &lt;li&gt;A Ph.D. candidate at University of Houston&lt;/li&gt;
 &lt;li&gt;A Chinese geophysicist and geoscience enthusiast&lt;/li&gt;
-&lt;li&gt;A proud father, amateur photographer, reader, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;A proud father, amateur photographer, reader,&lt;/li&gt;
 &lt;li&gt;Inquisitive, conscientious, cooperative, convivial, &amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -340,9 +340,9 @@
     
     <item>
       <title>Invited Talks</title>
-      <link>https://xiaolongw1223.github.io/talk/</link>
+      <link>https://yanyanh5945.github.io/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/talk/</guid>
+      <guid>https://yanyanh5945.github.io/talk/</guid>
       <description>&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;09/22, Geophysical Society of Houston, Houston:&lt;/strong&gt;
 A Bayesian framework for uncertainty quantification of salt body shapes using gravity data&lt;/p&gt;
@@ -356,9 +356,9 @@ From deterministic to probabilistic geoscience modeling: analyzing uncertainties
     
     <item>
       <title>News</title>
-      <link>https://xiaolongw1223.github.io/news/</link>
+      <link>https://yanyanh5945.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/news/</guid>
+      <guid>https://yanyanh5945.github.io/news/</guid>
       <description>&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -427,17 +427,17 @@ Xiaolong successfully defended his doctoral thesis proposal!&lt;/li&gt;
     
     <item>
       <title>Research</title>
-      <link>https://xiaolongw1223.github.io/research/</link>
+      <link>https://yanyanh5945.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/research/</guid>
+      <guid>https://yanyanh5945.github.io/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://xiaolongw1223.github.io/resource/</link>
+      <link>https://yanyanh5945.github.io/resource/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xiaolongw1223.github.io/resource/</guid>
+      <guid>https://yanyanh5945.github.io/resource/</guid>
       <description>&lt;h3 id=&#34;open-code&#34;&gt;Open code&lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Find my code in &lt;a href=&#34;https://github.com/xiaolongw1223/Code-publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
