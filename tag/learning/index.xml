@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning | Xiaolong Wei</title>
+    <link>https://xiaolongw1223.github.io/tag/learning/</link>
+      <atom:link href="https://xiaolongw1223.github.io/tag/learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaolongw1223.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>learning</title>
+      <link>https://xiaolongw1223.github.io/tag/learning/</link>
+    </image>
+    
+    <item>
+      <title>3D deep learning gravity inversion</title>
+      <link>https://xiaolongw1223.github.io/project/3d_deep_learning_gravity_inversion/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/3d_deep_learning_gravity_inversion/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;A realistic synthetic model set consists of a randomly generated 3D anomalous body (i.e., brownish object), simulated topography (i.e., intermediate layer) and geophysical response (i.e., top layer). In our work, we generated a large sequence of realistic synthetic models as the training and test sets for the network.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;Ongoing research&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data driven prospecting for Irish type deposits</title>
+      <link>https://xiaolongw1223.github.io/project/data_driven_prospecting_for_irish_type_deposits/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/data_driven_prospecting_for_irish_type_deposits/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;The first and second row show the enhanced gravity and magnetic data maps, respectively. The horizontal, vertical, north-west and tilt derivatives are displayed from left to right.&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;I collaboratively worked with my colleagues &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=YfW-ScYAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/prithwijit-chakraborti-30bb0a15a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prithwijit&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/halleluya-naantu-ekandjo-68b58376/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Halleluya&lt;/a&gt; from &lt;a href=&#34;https://www.ucd.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University College Dublin&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=ADCJzqQAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caleb&lt;/a&gt; from &lt;a href=&#34;https://www.mines.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colorado School of Mines&lt;/a&gt; on this project, supervised by Prof. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=vhVK1YIAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aline Melo&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=j8vhgpMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiajia Sun&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=vRNHItwAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koen Torremans&lt;/a&gt; and &lt;a href=&#34;https://people.ucd.ie/sean.johnson/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Johnson&lt;/a&gt;, for an international competition named as &lt;a href=&#34;https://www.pdac.ca/members/students/faa/about-the-award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank Arnott - Next Generation Explorers Award&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In this project, we employed airborne gravity, magnetic, electromagnetic, radiometric data sets, geochemical measures as well as geological bedrock maps to investigate the Irish-type deposits using the machine learning and conventional geophysical inversions. Please find more details in our &lt;a href=&#34;https://www.pdac.ca/members/students/faa/2022-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;final presentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning enhanced joint inversion</title>
+      <link>https://xiaolongw1223.github.io/project/deep_learning_enhanced_joint_inversion/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/deep_learning_enhanced_joint_inversion/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;The deep learning enhanced joint inversion framework.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;I participated in this research program led by &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=4I85QsoAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanyan Hu&lt;/a&gt; from the &lt;a href=&#34;https://uh.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt; under the supervision of Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiefu Chen&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xuqing Wu&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=j8vhgpMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiajia Sun&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

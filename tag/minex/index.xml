@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MinEx | Xiaolong Wei</title>
+    <link>https://xiaolongw1223.github.io/tag/minex/</link>
+      <atom:link href="https://xiaolongw1223.github.io/tag/minex/index.xml" rel="self" type="application/rss+xml" />
+    <description>MinEx</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaolongw1223.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>MinEx</title>
+      <link>https://xiaolongw1223.github.io/tag/minex/</link>
+    </image>
+    
+    <item>
+      <title>Data driven prospecting for Irish type deposits</title>
+      <link>https://xiaolongw1223.github.io/project/data_driven_prospecting_for_irish_type_deposits/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/data_driven_prospecting_for_irish_type_deposits/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;The first and second row show the enhanced gravity and magnetic data maps, respectively. The horizontal, vertical, north-west and tilt derivatives are displayed from left to right.&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;I collaboratively worked with my colleagues &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=YfW-ScYAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/prithwijit-chakraborti-30bb0a15a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prithwijit&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/halleluya-naantu-ekandjo-68b58376/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Halleluya&lt;/a&gt; from &lt;a href=&#34;https://www.ucd.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University College Dublin&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=ADCJzqQAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caleb&lt;/a&gt; from &lt;a href=&#34;https://www.mines.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colorado School of Mines&lt;/a&gt; on this project, supervised by Prof. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=vhVK1YIAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aline Melo&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=j8vhgpMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiajia Sun&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=vRNHItwAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koen Torremans&lt;/a&gt; and &lt;a href=&#34;https://people.ucd.ie/sean.johnson/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Johnson&lt;/a&gt;, for an international competition named as &lt;a href=&#34;https://www.pdac.ca/members/students/faa/about-the-award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank Arnott - Next Generation Explorers Award&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In this project, we employed airborne gravity, magnetic, electromagnetic, radiometric data sets, geochemical measures as well as geological bedrock maps to investigate the Irish-type deposits using the machine learning and conventional geophysical inversions. Please find more details in our &lt;a href=&#34;https://www.pdac.ca/members/students/faa/2022-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;final presentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diamond exploration</title>
+      <link>https://xiaolongw1223.github.io/project/diamond_exploration/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/diamond_exploration/</guid>
+      <description>&lt;p&gt;I first heard about one of the 21 century most successful and well-known marking slogan “A Diamond Is Forever&amp;quot; when I was in the middle school. I had no idea how much this slogan would affect the romantic relationships of young people, until few years late when I was ready for my marriage proposal and needed to purchase a “sizeable” diamond engagement ring. The magic relation of me and diamond has not been ended yet.&lt;/p&gt;
+&lt;p&gt;After a couple of years, thank my Ph.D. advisor, I was pleasured to be involved into a project focusing on the diamond exploration, to be geological, identifying Kimberlite based on the multiple geophysical responses. Due to the confidential policy, we cannot reveal any result of this project. But I would like to describe our general workflow and share the one important lesson that we learned from this practical project.&lt;/p&gt;
+&lt;p&gt;We utilized airborne gravity gradiometry, magnetic and electromagnetic data to, respectively, recover subsurface density, susceptibility and conductivity models. The subsurface system was differentiated into multiple geological units based on various physical property characteristics. We referred this procedure to as &lt;a href=&#34;https://sites.google.com/view/jiajiasun/research/geology-differentiation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geology differentiation&lt;/a&gt;. Few identified geological units are consistent with the known dykes and Kimberlites, and show several prospective areas for Kimberlite exploration in future.&lt;/p&gt;
+&lt;p&gt;In this project, we learned:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One geological unit could correspond to multiple lithologies at different depths.&lt;/li&gt;
+&lt;li&gt;One lithology could be the same for zones that have different alteration and/or mineralization (or mineral assemblages) and thus have differing physical properties.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic geology differentiation</title>
+      <link>https://xiaolongw1223.github.io/project/probabilistic_geology_differentiation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/probabilistic_geology_differentiation/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;(Top) The probabilities of spatial distribution for Units 2 to 9. Warmer colors represent higher probabilities, and colder colors indicate lower probabilities. (Bottom) The probabilities of geological units at different locations indicated by black boxes.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/jiajiasun/research/geology-differentiation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geology differentiation&lt;/a&gt; takes geophysical measurements and inversion results one step closer to the goal of characterizing subsurface geology. It provides a natural way to incorporate prior geological knowledge, physical property measurements and the inverted physical property models into one framework, and helps us to extract more information from geophysical data sets. The results of geology differentiation are typically in the form of a 3D quasi-geology model which shows the spatial distribution of various geological units identified during the geology differentiation process. It is, therefore, of practical significance to be able to quantify the uncertainties of the geological units in a quasi-geology model.&lt;/p&gt;
+&lt;p&gt;We have developed an effective workflow to construct 3D probabilistic quasi-geology models in the deterministic inversion framework. Two essential components of our workflow are the generation of a large sequence of equivalent physical property models and the acceptance/rejection of these models. We have used mixed Lp norm joint inversion to generate a large sequence of density contrast and susceptibility models. The prior physical property measurements on drill core samples have been used to accept only these models that are consistent with physical property measurements. We have performed geology differentiation for all these accepted models and obtained a set of 3D quasi-geology models, based on which we quantify uncertainties of spatial distributions for each geological unit and calculate probabilities of geological unit types at any location in a study area.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A critical mineral exploration – Niobium</title>
+      <link>https://xiaolongw1223.github.io/project/critical_mineral_exploration/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/critical_mineral_exploration/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;Spatial distribution of identified geological Unit 7, 8, 9 and 11 with drillhole locations as well as assay measurements. (a) is a depth slice at the elevation of -800-m in where the green dots indicate locations of drillholes, (b) and (c) are vertical cross-sections of 4461000-m. The colored dots in (b) and (c) represent, respectively, the percent concentrations of Nb2o5 and REO (rare earth oxides).&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;Mineral is essential in our daily life ranging from the talc in makeups, calcite in toothpastes, nickel in batteries to silicon in integrated circuit. The demands of minerals have been steeply increasing for decades, as the global energy portfolio shifts from fossil fuels to renewable energy sources (also known as energy transition), such as electronic vehicles, wind turbines and solar panels. Niobium is one of the 50 critical minerals identified by the US Department of Interior in 2022, which shows great potential in lithium-ion batteries to increase the energy storage, directly influencing the performance of electric vehicles.&lt;/p&gt;
+&lt;p&gt;We present a case study on using airborne geophysical data, borehole and physical property measurements to characterize the Elk Creek Carbonatite complex located in the southeast of Nebraska, US. It hosts the largest known niobium deposit in the United States. Our quasi-geology model shows remarkable consistency with the assay measurements and coincides with the known niobium deposit. We also discover a significant volume of potential target body directly underneath the known niobium ore zone. Our work demonstrates the effectiveness of integrated geophysical imaging and &lt;a href=&#34;https://sites.google.com/view/jiajiasun/research/geology-differentiation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geology differentiation&lt;/a&gt; for the critical mineral exploration.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

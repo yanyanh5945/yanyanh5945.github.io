@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaolong Wei</title>
+    <link>https://xiaolongw1223.github.io/</link>
+      <atom:link href="https://xiaolongw1223.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaolong Wei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xiaolongw1223.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiaolong Wei</title>
+      <link>https://xiaolongw1223.github.io/</link>
+    </image>
+    
+    <item>
+      <title>DL 3D gravity inversion</title>
+      <link>https://xiaolongw1223.github.io/publication/2023_deep_learning_inv/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2023_deep_learning_inv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Monte Carlo inversion</title>
+      <link>https://xiaolongw1223.github.io/publication/2023_3d_monte_carlo/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2023_3d_monte_carlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-salt reconstruction</title>
+      <link>https://xiaolongw1223.github.io/publication/2023_multi_salt_reconstruction/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2023_multi_salt_reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-salt reconstruction</title>
+      <link>https://xiaolongw1223.github.io/project/multi_salt_reconstruction/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/multi_salt_reconstruction/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;The recovered mean model without using any constraint.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;Ongoing research&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying uncertainty of salt body shapes recovered from gravity data using trans-dimensional Markov chain Monte Carlo sampling</title>
+      <link>https://xiaolongw1223.github.io/publication/2022_uncertainty_salt_shape/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2022_uncertainty_salt_shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D probabilistic geology differentiation based on airborne geophysics, mixed L p norm joint inversion and physical property measurements</title>
+      <link>https://xiaolongw1223.github.io/publication/2022_probabilistic_differentiation/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2022_probabilistic_differentiation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A deep learning enhanced framework for multi-physics joint inversion</title>
+      <link>https://xiaolongw1223.github.io/publication/2022_deep_learning/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2022_deep_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping critical mineral resources using airborne geophysics, 3D joint inversion and geology differentiation: A case study of a buried niobium deposit in the Elk Creek carbonatite, Nebraska, USA</title>
+      <link>https://xiaolongw1223.github.io/publication/2022_elk_creek/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2022_elk_creek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Monte Carlo gravity inversion</title>
+      <link>https://xiaolongw1223.github.io/project/3d_monte_carlo_gravity_inversion/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/3d_monte_carlo_gravity_inversion/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;The recovered 3D mean model.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;Ongoing research&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D deep learning gravity inversion</title>
+      <link>https://xiaolongw1223.github.io/project/3d_deep_learning_gravity_inversion/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/3d_deep_learning_gravity_inversion/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;A realistic synthetic model set consists of a randomly generated 3D anomalous body (i.e., brownish object), simulated topography (i.e., intermediate layer) and geophysical response (i.e., top layer). In our work, we generated a large sequence of realistic synthetic models as the training and test sets for the network.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;Ongoing research&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying uncertainty of salt body shapes</title>
+      <link>https://xiaolongw1223.github.io/project/quantifying_uncertainty_of_salt_body_shapes/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/quantifying_uncertainty_of_salt_body_shapes/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;The recovered 2D SEG-EAGE salt models without (a) and with (b) constraint. The reconstructed Sigsbee salt models without (c) and with (d) constraint.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;Ongoing research&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty analysis of 3D potential-field deterministic inversion using mixed L p norms</title>
+      <link>https://xiaolongw1223.github.io/publication/2021_uncertainty/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2021_uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data driven prospecting for Irish type deposits</title>
+      <link>https://xiaolongw1223.github.io/project/data_driven_prospecting_for_irish_type_deposits/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/data_driven_prospecting_for_irish_type_deposits/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;The first and second row show the enhanced gravity and magnetic data maps, respectively. The horizontal, vertical, north-west and tilt derivatives are displayed from left to right.&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;I collaboratively worked with my colleagues &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=YfW-ScYAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rob&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/prithwijit-chakraborti-30bb0a15a/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prithwijit&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/halleluya-naantu-ekandjo-68b58376/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Halleluya&lt;/a&gt; from &lt;a href=&#34;https://www.ucd.ie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University College Dublin&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=ADCJzqQAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caleb&lt;/a&gt; from &lt;a href=&#34;https://www.mines.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colorado School of Mines&lt;/a&gt; on this project, supervised by Prof. &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=vhVK1YIAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aline Melo&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=j8vhgpMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiajia Sun&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=vRNHItwAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koen Torremans&lt;/a&gt; and &lt;a href=&#34;https://people.ucd.ie/sean.johnson/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sean Johnson&lt;/a&gt;, for an international competition named as &lt;a href=&#34;https://www.pdac.ca/members/students/faa/about-the-award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank Arnott - Next Generation Explorers Award&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In this project, we employed airborne gravity, magnetic, electromagnetic, radiometric data sets, geochemical measures as well as geological bedrock maps to investigate the Irish-type deposits using the machine learning and conventional geophysical inversions. Please find more details in our &lt;a href=&#34;https://www.pdac.ca/members/students/faa/2022-challenge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;final presentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning enhanced joint inversion</title>
+      <link>https://xiaolongw1223.github.io/project/deep_learning_enhanced_joint_inversion/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/deep_learning_enhanced_joint_inversion/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;The deep learning enhanced joint inversion framework.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;I participated in this research program led by &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=4I85QsoAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanyan Hu&lt;/a&gt; from the &lt;a href=&#34;https://uh.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt; under the supervision of Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiefu Chen&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xuqing Wu&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=j8vhgpMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiajia Sun&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diamond exploration</title>
+      <link>https://xiaolongw1223.github.io/project/diamond_exploration/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/diamond_exploration/</guid>
+      <description>&lt;p&gt;I first heard about one of the 21 century most successful and well-known marking slogan “A Diamond Is Forever&amp;quot; when I was in the middle school. I had no idea how much this slogan would affect the romantic relationships of young people, until few years late when I was ready for my marriage proposal and needed to purchase a “sizeable” diamond engagement ring. The magic relation of me and diamond has not been ended yet.&lt;/p&gt;
+&lt;p&gt;After a couple of years, thank my Ph.D. advisor, I was pleasured to be involved into a project focusing on the diamond exploration, to be geological, identifying Kimberlite based on the multiple geophysical responses. Due to the confidential policy, we cannot reveal any result of this project. But I would like to describe our general workflow and share the one important lesson that we learned from this practical project.&lt;/p&gt;
+&lt;p&gt;We utilized airborne gravity gradiometry, magnetic and electromagnetic data to, respectively, recover subsurface density, susceptibility and conductivity models. The subsurface system was differentiated into multiple geological units based on various physical property characteristics. We referred this procedure to as &lt;a href=&#34;https://sites.google.com/view/jiajiasun/research/geology-differentiation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geology differentiation&lt;/a&gt;. Few identified geological units are consistent with the known dykes and Kimberlites, and show several prospective areas for Kimberlite exploration in future.&lt;/p&gt;
+&lt;p&gt;In this project, we learned:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One geological unit could correspond to multiple lithologies at different depths.&lt;/li&gt;
+&lt;li&gt;One lithology could be the same for zones that have different alteration and/or mineralization (or mineral assemblages) and thus have differing physical properties.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic geology differentiation</title>
+      <link>https://xiaolongw1223.github.io/project/probabilistic_geology_differentiation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/probabilistic_geology_differentiation/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;(Top) The probabilities of spatial distribution for Units 2 to 9. Warmer colors represent higher probabilities, and colder colors indicate lower probabilities. (Bottom) The probabilities of geological units at different locations indicated by black boxes.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/jiajiasun/research/geology-differentiation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geology differentiation&lt;/a&gt; takes geophysical measurements and inversion results one step closer to the goal of characterizing subsurface geology. It provides a natural way to incorporate prior geological knowledge, physical property measurements and the inverted physical property models into one framework, and helps us to extract more information from geophysical data sets. The results of geology differentiation are typically in the form of a 3D quasi-geology model which shows the spatial distribution of various geological units identified during the geology differentiation process. It is, therefore, of practical significance to be able to quantify the uncertainties of the geological units in a quasi-geology model.&lt;/p&gt;
+&lt;p&gt;We have developed an effective workflow to construct 3D probabilistic quasi-geology models in the deterministic inversion framework. Two essential components of our workflow are the generation of a large sequence of equivalent physical property models and the acceptance/rejection of these models. We have used mixed Lp norm joint inversion to generate a large sequence of density contrast and susceptibility models. The prior physical property measurements on drill core samples have been used to accept only these models that are consistent with physical property measurements. We have performed geology differentiation for all these accepted models and obtained a set of 3D quasi-geology models, based on which we quantify uncertainties of spatial distributions for each geological unit and calculate probabilities of geological unit types at any location in a study area.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recovering sparse models in 3D potential‐field inversion without bound dependence or staircasing problems using a mixed Lp‐norm regularization</title>
+      <link>https://xiaolongw1223.github.io/publication/2020_sparse/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2020_sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the 3D undercover structure of a Precambrian intrusive complex by integrating airborne magnetic and gravity gradient data into 3D quasi-geology model building</title>
+      <link>https://xiaolongw1223.github.io/publication/2020_decorah/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/publication/2020_decorah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A critical mineral exploration – Niobium</title>
+      <link>https://xiaolongw1223.github.io/project/critical_mineral_exploration/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/critical_mineral_exploration/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;Spatial distribution of identified geological Unit 7, 8, 9 and 11 with drillhole locations as well as assay measurements. (a) is a depth slice at the elevation of -800-m in where the green dots indicate locations of drillholes, (b) and (c) are vertical cross-sections of 4461000-m. The colored dots in (b) and (c) represent, respectively, the percent concentrations of Nb2o5 and REO (rare earth oxides).&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;Mineral is essential in our daily life ranging from the talc in makeups, calcite in toothpastes, nickel in batteries to silicon in integrated circuit. The demands of minerals have been steeply increasing for decades, as the global energy portfolio shifts from fossil fuels to renewable energy sources (also known as energy transition), such as electronic vehicles, wind turbines and solar panels. Niobium is one of the 50 critical minerals identified by the US Department of Interior in 2022, which shows great potential in lithium-ion batteries to increase the energy storage, directly influencing the performance of electric vehicles.&lt;/p&gt;
+&lt;p&gt;We present a case study on using airborne geophysical data, borehole and physical property measurements to characterize the Elk Creek Carbonatite complex located in the southeast of Nebraska, US. It hosts the largest known niobium deposit in the United States. Our quasi-geology model shows remarkable consistency with the assay measurements and coincides with the known niobium deposit. We also discover a significant volume of potential target body directly underneath the known niobium ore zone. Our work demonstrates the effectiveness of integrated geophysical imaging and &lt;a href=&#34;https://sites.google.com/view/jiajiasun/research/geology-differentiation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;geology differentiation&lt;/a&gt; for the critical mineral exploration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty analysis of potential field data inversion</title>
+      <link>https://xiaolongw1223.github.io/project/uncertainty_analysis_of_potential_field_data_inversion/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/uncertainty_analysis_of_potential_field_data_inversion/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;A set of recovered density models range from a wide spectrum of model features with the depth slices at -2000 m (upper) and cross sections at 4790800 m (lower). We note that these models contain the consistent level of data fitting. The diverse model characteristics reveal the uncertainties of gravity gradient inversions.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;We have developed an empirical method to quantify the uncertainties of the inverted models in the 3D deterministic inversion framework. We have employed the mixed Lp norm inversion, a very recently developed inversion method, which allows different norms to be applied to the four different components of the regularization term. Our work shows that the uncertainties of the 3D inverted models can be empirically assessed in the deterministic framework by taking advantage of the adjustable parameters. We emphasize that a better practice for interpreting field data sets is to create a large sequence of equivalent yet diverse models and factor the uncertainties into interpretations, instead of basing his or her interpretation on a single &amp;ldquo;optimal&amp;rdquo; model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D undercover structure of Precambrian intrusion</title>
+      <link>https://xiaolongw1223.github.io/project/3d_undercover_structure_of_precambrian_intrusion/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/project/3d_undercover_structure_of_precambrian_intrusion/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;A 3D view of the newly identified geological units based on joint inversion results.&lt;/p&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;Mineral exploration under a thick sedimentary cover naturally relies on geophysical methods. We have used high-resolution airborne magnetic and gravity gradient data over northeast Iowa to characterize the geology of the concealed Precambrian rocks and evaluate the prospectivity of mineral deposits. We performed separate and joint inversions of magnetic and gravity gradient data to obtain 3D density contrast models and 3D susceptibility models, based on which we carried out geology differentiation. we identified 10 geologic units and their spatial distributions in 3D based on separately inverted physical property values. The extension of 2D geologic interpretation to 3D allows for the discovery of four previously unidentified geologic units, a more detailed classification of the Yavapai country rock, and the identification of the highly anomalous core of the mafic intrusions. Joint inversion allows for the classification of a few geologic units further into several subclasses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://xiaolongw1223.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_english.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  &lt;i class=&#34;fas fa-file-pdf  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Download my full CV in PDF&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;im&#34;&gt;I&amp;rsquo;m&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A Ph.D. candidate at University of Houston&lt;/li&gt;
+&lt;li&gt;A Chinese geophysicist and geoscience enthusiast&lt;/li&gt;
+&lt;li&gt;A proud father, amateur photographer, reader, &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Inquisitive, conscientious, cooperative, convivial, &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022&lt;/strong&gt;: Ph.D. in Geophysics,
+&lt;a href=&#34;https://uh.edu/nsm/earth-atmospheric/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Houston&lt;/a&gt;, Houston, USA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2018&lt;/strong&gt;: M.S. in Geology,
+&lt;a href=&#34;https://www.nwu.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Northwest University&lt;/a&gt;, Xi&amp;rsquo;an, China&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt;: B.S. in Geophysics,
+&lt;a href=&#34;https://www.cugb.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;China University of Geosciences&lt;/a&gt;, Beijing, China&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;professional-appointments&#34;&gt;Professional Appointments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2023/01–present&lt;/strong&gt;: Postdoctoral Research Fellow,
+&lt;a href=&#34;https://sustainability.stanford.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stanford University&lt;/a&gt;, Stanford, USA&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2018/08–2022/12&lt;/strong&gt;: Research Assistant,
+&lt;a href=&#34;https://uh.edu/nsm/earth-atmospheric/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Houston&lt;/a&gt;, Houston, USA&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;grants&#34;&gt;Grants&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2020-2021:&lt;/strong&gt; $1,000; Proposal:&amp;ldquo;Uncertainty Analysis of Geophysical Inversions Conditioned on Spatial Distributions of Geologic Units&amp;rdquo;; &lt;a href=&#34;https://uh.edu/nsm/earth-atmospheric/news-events/stories/2021/1011-student-research.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Student Research Funding Program&lt;/a&gt; (independent of advisor) from EAS Department at University of Houston; PI: Xiaolong Wei&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;awards--honors&#34;&gt;Awards &amp;amp; Honors&lt;/h3&gt;
+&lt;h4 id=&#34;university-of-houston&#34;&gt;University of Houston&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; &lt;a href=&#34;https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dan E. Wells Outstanding Dissertation Award&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; Outstanding Graduate Work in Geophysics ($1,250)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021:&lt;/strong&gt; Student Travel Award ($1,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2020-2021:&lt;/strong&gt; Outstanding Academic Achievement ($700*2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;seg&#34;&gt;SEG&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; Nomination of “Geophysics Bright Spots” in The Leading Edge by GEOPHYSCIS editorial board&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; SEG Lucien LaCoste Scholarship ($5,305.12)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; The Best Paper in the Mining Sessions at 2021 IMAGE Annual Meeting (co-author)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; The Best Student Paper in the Mining Sessions at 2021 IMAGE Annual Meeting&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021:&lt;/strong&gt; SEG Technical Program Registration Grant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021:&lt;/strong&gt; SEG &lt;a href=&#34;https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John R. Butler Jr. Scholarship&lt;/a&gt; ($510.86)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021:&lt;/strong&gt; The Best Poster in the Mining Sessions at 2020 SEG Annual Meeting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;others&#34;&gt;others&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; The Innovation Prize in &lt;a href=&#34;https://www.pdac.ca/members/students/faa/about-the-award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank Arnott - Next Generation Explorers Award&lt;/a&gt; ($3,000CAD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2016-2018:&lt;/strong&gt; The First Prize Scholarship, Northwest University, Xi&amp;rsquo;an, China (￥12,000*3)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015:&lt;/strong&gt; The Best Bachelor Thesis, China University of Geosciences, Beijing, China (￥1,000)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;professional-service--outreach&#34;&gt;Professional Service &amp;amp; Outreach&lt;/h3&gt;
+&lt;h4 id=&#34;peer-reviewer&#34;&gt;Peer Reviewer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2023-present&lt;/strong&gt;: &lt;a href=&#34;https://onlinelibrary.wiley.com/journal/13652478&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geophysical Prospecting&lt;/a&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022-present&lt;/strong&gt;: &lt;a href=&#34;https://www.tandfonline.com/journals/tgei20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geocarto International&lt;/a&gt;&lt;sup&gt;1&lt;/sup&gt; and &lt;a href=&#34;https://seg.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEG Conference Proceeding&lt;/a&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021-present&lt;/strong&gt;: &lt;a href=&#34;https://library.seg.org/journal/gpysa7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geophysics&lt;/a&gt;&lt;sup&gt;6&lt;/sup&gt;, &lt;a href=&#34;https://academic.oup.com/gji&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geophysical Journal International&lt;/a&gt;&lt;sup&gt;1&lt;/sup&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Geoscience and Remote Sensing&lt;/a&gt;&lt;sup&gt;17&lt;/sup&gt; and &lt;a href=&#34;https://www.springer.com/journal/11600&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Acta Geophysica&lt;/a&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;conference-session-chair&#34;&gt;Conference Session Chair&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022&lt;/strong&gt;: Session Chair for GM 1: Inversion Insights at IMAGE Annual Meeting, Houston, Texas, USA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021&lt;/strong&gt;: Session Chair for MG P1: New Methods and Case Histories 1 at IMAGE Annual Meeting (SEG and AAPG joint annual meeting), Denver, Colorado, USA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;affiliations&#34;&gt;Affiliations&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022-present&lt;/strong&gt;: European Geosciences Union (&lt;a href=&#34;https://www.egu.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EGU&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021-present&lt;/strong&gt;: Geophysical Society of Houston (&lt;a href=&#34;https://www.gshtx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSH&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2020-present&lt;/strong&gt;: European Association of Geoscientists &amp;amp; Engineers (&lt;a href=&#34;https://eage.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EAGE&lt;/a&gt;) and American Geophysical Union (&lt;a href=&#34;https://www.agu.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AGU&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2018-present&lt;/strong&gt;: Society of Exploration Geophysicists (&lt;a href=&#34;https://seg.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEG&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;teaching-experience&#34;&gt;Teaching Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2021:&lt;/strong&gt; GEOL7330: Potential Field Methods of Geophysical Exploration (graduate core course), guest lecturer, University of Houston&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2019:&lt;/strong&gt; GEOL7330: Geophysical Field Camp, teaching assistant, University of Houston&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;certifications&#34;&gt;Certifications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; Convolutional Neural Networks course given by Dr. Andrew Ng through Coursera, Inc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; Remote pilot for the small unmanned aircraft system issued by Federal Aviation Administration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021:&lt;/strong&gt; FAA Part 107 Knowledge Test Prep for Drone Pilot on Udemy, Inc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021:&lt;/strong&gt; ISInProG@Lario - 2021 International School on Inverse Problems in Geophysics on the shore of the Lario Lake&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021:&lt;/strong&gt; Magnetotellurics (MT) short course given by Dr. Alan G. Jones&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2018:&lt;/strong&gt; Machine Learning course given by Dr. Andrew Ng through Coursera, Inc.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited Talks</title>
+      <link>https://xiaolongw1223.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/talk/</guid>
+      <description>&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;09/22, Geophysical Society of Houston, Houston:&lt;/strong&gt;
+A Bayesian framework for uncertainty quantification of salt body shapes using gravity data&lt;/p&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;11/16, Geophysical Society of Houston, Houston:&lt;/strong&gt;
+Build probabilistic quasi-geology models based on multiple airborne geophysical data and sparse joint inversions&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09/09, SimPEG Monthly Seminar, Online:&lt;/strong&gt;
+From deterministic to probabilistic geoscience modeling: analyzing uncertainties of geophysical inversions and constructing probabilistic subsurface models conditioned on petrophysical measurements&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://xiaolongw1223.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/news/</guid>
+      <description>&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;12/22&lt;/strong&gt;:
+Xiaolong won the Fall 2022 &lt;a href=&#34;https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dan E. Wells Outstanding Dissertation Award&lt;/a&gt;! The recipient receives an award of $1,000 and is recognized at the Commencement ceremony.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;10/22&lt;/strong&gt;:
+Xiaolong successfully defended his Ph.D. dissertation!!!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;07/22&lt;/strong&gt;:
+Xiaolong&amp;rsquo;s &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/geo2021-0833.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; was nominated by GEOPHYSICS editors to be highlighted in “Geophysics Bright Spots” in The Leading Edge!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;06/28&lt;/strong&gt;:
+Xiaolong and his teammates have won the prestigious Innovation Prize in &lt;a href=&#34;https://www.pdac.ca/members/students/faa/about-the-award&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frank Arnott - Next Generation Explorers Award&lt;/a&gt;!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;06/10&lt;/strong&gt;:
+Xiaolong has been awarded the SEG Lucien LaCoste Scholarship for $5,305.12! This is the largest amounts of scholarship money Xiaolong has received so far.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;xx/xx&lt;/strong&gt;:
+Xiaolong and his best half - Yuteng were blessed with the arrival of their first baby!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;03/13&lt;/strong&gt;:
+Congratulations to Xiaolong for receiveing the Best Student Paper Award and the Best Paper Award (co-authored) from the SEG Mining Committee for his work presented at 2021 SEG Annual Meeting.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;12/13&lt;/strong&gt;:
+Xiaolong attended the AGU Fall Meeting in New Orleans, and gave two poster presentations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;10/05&lt;/strong&gt;:
+Xiaolong was one of the three  recipients of the inaugural &lt;a href=&#34;https://uh.edu/nsm/earth-atmospheric/news-events/stories/2021/1011-student-research.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EAS Student Research Grant&lt;/a&gt;!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;09/27&lt;/strong&gt;:
+Xiaolong attended IMAGE &amp;lsquo;21, the joint SEG/AAPE Annual Meeting in Denver, and gave one oral and one poster presentations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;08/06&lt;/strong&gt;:
+Xiaolong was awarded the SEG Technical Program Registration Grant by the SEG Travel Grant Committee.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;07/05&lt;/strong&gt;:
+We developed an empirical method to analyze uncertainty of 3D inversion in the deterministic framework. Xiaolong published his first mansucript on &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/geo2020-0672.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geophysics&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;05/29&lt;/strong&gt;:
+Xiaolong was awarded SEG &lt;a href=&#34;https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;John R. Butler Jr. Scholarship&lt;/a&gt;!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;04/27&lt;/strong&gt;:
+Xiaolong successfully defended his doctoral thesis proposal!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://xiaolongw1223.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://xiaolongw1223.github.io/resource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaolongw1223.github.io/resource/</guid>
+      <description>&lt;h3 id=&#34;open-code&#34;&gt;Open code&lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Find my code in &lt;a href=&#34;https://github.com/xiaolongw1223/Code-publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Joint inversion of gravity gradient and magnetic data using mixed Lp norm regularization. &lt;a href=&#34;https://zenodo.org/record/5774303#.YmQ2yPPMJTY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Interactive geology differentiation and 3D visualization of geological units. &lt;a href=&#34;https://zenodo.org/record/5774309#.YmQ3r_PMJTY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;Paper1&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;Paper2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Uncertainty analysis of 3D potential-field deterministic inversion using mixed L p norms. &lt;a href=&#34;https://github.com/xiaolongw1223/Code-publications/tree/main/2021-Wei-and-Sun-GEOPHYSICS-uncertainty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;, &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/geo2020-0672.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Solving the bound dependence and staircasing problems in 3D potential-field sparse inversions using a mixed Lp-norm regularization. &lt;a href=&#34;https://zenodo.org/record/4057134#.YmQ36_PMJTY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;, &lt;a href=&#34;https://www.earthdoc.org/content/journals/10.1111/1365-2478.13063&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;synthetic-models&#34;&gt;Synthetic models&lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Horseshoe shaped realistic &lt;a href=&#34;https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_dens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;density&lt;/a&gt; and &lt;a href=&#34;https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_susc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;susceptibility&lt;/a&gt; models. &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/geo2020-0672.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;my-favorite-tutorials&#34;&gt;My favorite tutorials&lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.eecs.harvard.edu/htk/phdadvice/#10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Ph.D. Advice&lt;/em&gt;&lt;/a&gt; by Prof. H.T. Kung, Harvard University.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Science of Scientific Writing&lt;/em&gt;&lt;/a&gt; by Prof. George D. Gopen and Judith A. Swan, Duke University.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/1.9781560801719.ch5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Inversion for applied geophysics: A tutorial&lt;/em&gt;&lt;/a&gt; by Prof. Douglas W. Oldenburg and Yaoguo Li, University of British Columbia and Colorado School of Mines.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.cambridge.org/engage/coe/article-details/60e6a70d609d0d7fa3d893a7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Lecture Notes on Inverse Theory&lt;/em&gt;&lt;/a&gt; by Prof. Andreas Fichtner, ETH Zurich.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
