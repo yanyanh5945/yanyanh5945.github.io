@@ -5,12 +5,20 @@
     <link>https://yanyanh5945.github.io/</link>
       <atom:link href="https://yanyanh5945.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yanyan Hu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yanyanh5945.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Yanyan Hu</title>
       <link>https://yanyanh5945.github.io/</link>
     </image>
+    
+    <item>
+      <title>A deep learning enhanced framework for multi-physics joint inversion</title>
+      <link>https://yanyanh5945.github.io/publication/2023_deep_learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/publication/2023_deep_learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DL 3D gravity inversion</title>
@@ -61,14 +69,6 @@
       <link>https://yanyanh5945.github.io/publication/2022_probabilistic_differentiation/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://yanyanh5945.github.io/publication/2022_probabilistic_differentiation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A deep learning enhanced framework for multi-physics joint inversion</title>
-      <link>https://yanyanh5945.github.io/publication/2022_deep_learning/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2022_deep_learning/</guid>
       <description></description>
     </item>
     
@@ -145,9 +145,31 @@
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;The deep learning enhanced joint inversion framework.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
-&lt;p&gt;I participated in this research program led by &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=4I85QsoAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yanyan Hu&lt;/a&gt; from the &lt;a href=&#34;https://uh.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt; under the supervision of Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiefu Chen&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xuqing Wu&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?hl=en&amp;amp;user=j8vhgpMAAAAJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiajia Sun&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- I participated in this research program led by [Yanyan Hu](https://scholar.google.com/citations?hl=en&amp;user=4I85QsoAAAAJ) from the [Department of Electrical and Computer Engineering](https://uh.edu/) under the supervision of Prof. [Jiefu Chen](https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;hl=en), [Xuqing Wu](https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;hl=en) and [Jiajia Sun](https://scholar.google.com/citations?hl=en&amp;user=j8vhgpMAAAAJ). --&gt;
 &lt;p&gt;We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>PINN for EM simulations</title>
+      <link>https://yanyanh5945.github.io/project/pinn_for_em_simulations/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/project/pinn_for_em_simulations/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;PINN for solving Maxwell&amp;rsquo;s equations.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;I participated in this research program led by &lt;a href=&#34;https://ieeexplore-ieee-org.ezproxy.lib.uh.edu/author/37086354006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pan Zhang&lt;/a&gt; from &lt;a href=&#34;https://english.upc.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;China University of Petroleum&lt;/a&gt; under the supervision of Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiefu Chen&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xuqing Wu&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore-ieee-org.ezproxy.lib.uh.edu/author/37085561779&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaogui Deng&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models. --&gt;
+&lt;p&gt;We have adopted the PINN strategy and apply it to time-domain electromagnetic simulations based on Maxwell’s equations. Compared to the existing PINN methods which are based on one variable PDE, our scheme is to solve both electric and magnetic fields simultaneously. Moreover, we will take media inhomogeneity and interface conditions into account in the loss function, while the previous PINN papers did not discuss these important issues. In the section of numerical examples, we will compare our network-based method with conventional FDTD to test the feasibility and accuracy of our work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A maxwell&#39;s equations based deep learning method for time domain electromagnetic simulations</title>
+      <link>https://yanyanh5945.github.io/publication/2021_pinn/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/publication/2021_pinn/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -287,8 +309,9 @@
 - **2021:** The Best Poster in the Mining Sessions at 2020 SEG Annual Meeting --&gt;
 &lt;!-- #### others --&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; PROS Hackathon – Winning Team, Houston ($ 2,000)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2015-2018:&lt;/strong&gt; Outstanding Graduate Student, Xidian University&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2015-2016:&lt;/strong&gt; First Class Graduate Scholarship (Top 5%), Xidian University, (￥5,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015-2016:&lt;/strong&gt; First Class Graduate Scholarship (Top 5%), Xidian University, (￥2,000)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; National Scholarship (Top 1%), China (￥5,000)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; Meritorious Winner Award in the Mathematical Contest in Modeling (MCM)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2013:&lt;/strong&gt; National Encouragement Scholarship (Top 1%), China (￥5,000)&lt;/li&gt;
@@ -357,7 +380,7 @@ From deterministic to probabilistic geoscience modeling: analyzing uncertainties
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;08/31&lt;/strong&gt;:
-Yanyan was invited by IEEE J-MMCT to give a talk &amp;ldquo;&lt;a href=&#34;https://vimeo.com/ieeejmmct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics-guided Deep Learning Methods for Time Domain EM Simulations&lt;/a&gt;&amp;rdquo; online.&lt;/p&gt;
+Yanyan was invited by &lt;a href=&#34;https://ieee-jmmct.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE J-MMCT&lt;/a&gt; to give a talk &amp;ldquo;&lt;a href=&#34;https://vimeo.com/ieeejmmct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics-guided Deep Learning Methods for Time Domain EM Simulations&lt;/a&gt;&amp;rdquo; online.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;08/28&lt;/strong&gt;:
@@ -367,16 +390,32 @@ Yanyan attended IMAGE &amp;lsquo;23, the joint SEG/AAPE Annual Meeting in Housto
 &lt;p&gt;&lt;strong&gt;02/27&lt;/strong&gt;:
 Yanyan successfully defended her doctoral thesis proposal!&lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;01/01&lt;/strong&gt;:
+Yanyan published her fifth manuscript on &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/geo2021-0589.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geophysics&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;09/12&lt;/strong&gt;:
+Yanyan published her fourth manuscript on &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9885220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Geoscience and Remote Sensing Letters&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;08/28&lt;/strong&gt;:
 Yanyan attended IMAGE &amp;lsquo;22, the joint SEG/AAPE Annual Meeting in Houston, and gave a poster presentation.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;strong&gt;07/25&lt;/strong&gt;:
+Yanyan won the yearly intern Hackthon with her team reBAES at &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;06/06&lt;/strong&gt;:
 Yanyan attended the 83rd EAGE (European Association of Geoscientists &amp;amp; Engineers) Annual Conference &amp;amp; Exhibition, and gave one oral presentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;05/30&lt;/strong&gt;:
+Yanyan start her Summer Intern in Products department at &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
@@ -390,8 +429,24 @@ Yanyan attended the 2021 IEEE International Symposium on Antennas and Propagatio
 Yanyan attended IMAGE &amp;lsquo;21, the joint SEG/AAPE Annual Meeting in Denver, and gave one oral presentation.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;strong&gt;04/09&lt;/strong&gt;:
+Yanyan received her returning offer Intern - Science in the Products department from &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;08/09&lt;/strong&gt;:
 Yanyan attended the 2021 International Conference on Electromagnetics in Advanced Applications (ICEAA), and gave one oral presentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;07/26&lt;/strong&gt;:
+Yanyan published her third manuscript on &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9496209&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Antennas and Propagation&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;04/09&lt;/strong&gt;:
+Yanyan received her offer Intern - Science in the Science department from &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;02/08&lt;/strong&gt;:
+Yanyan published her second manuscript on &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9350148&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Journal on Multiscale and Multiphysics Computational Techniques&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;01/04&lt;/strong&gt;:
@@ -410,11 +465,11 @@ Yanyan attended the 2020 IEEE USNC-CNC-URSI North American Radio Science Meeting
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;04/27&lt;/strong&gt;:
-Yanyan published her first manuscript on &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Geoscience and Remote Sensing&lt;/a&gt;&lt;/p&gt;
+Yanyan published her first manuscript on &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9078876&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Geoscience and Remote Sensing&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;01/27&lt;/strong&gt;:
-Yanyan was invited by Schlumberger to give a talk &amp;ldquo;Physics-guided machine learning/deep learning for forward &amp;amp; inverse modeling&amp;rdquo;, at Katy Drilling Software Center (KDSC) at Schlumberger, Houston&lt;/p&gt;
+Yanyan was invited by &lt;a href=&#34;https://www.slb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Schlumberger&lt;/a&gt; to give a talk &amp;ldquo;Physics-guided machine learning/deep learning for forward &amp;amp; inverse modeling&amp;rdquo;, at Katy Drilling Software Center (KDSC) at Schlumberger, Houston&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
