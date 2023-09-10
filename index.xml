@@ -5,12 +5,20 @@
     <link>https://yanyanh5945.github.io/</link>
       <atom:link href="https://yanyanh5945.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yanyan Hu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 13:16:54 -0500</lastBuildDate>
     <image>
       <url>https://yanyanh5945.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Yanyan Hu</title>
       <link>https://yanyanh5945.github.io/</link>
     </image>
+    
+    <item>
+      <title>RNN_FDTD</title>
+      <link>https://yanyanh5945.github.io/project/rnn_fdtd/</link>
+      <pubDate>Sun, 10 Sep 2023 13:16:54 -0500</pubDate>
+      <guid>https://yanyanh5945.github.io/project/rnn_fdtd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A deep learning enhanced framework for multi-physics joint inversion</title>
@@ -121,6 +129,14 @@
       <link>https://yanyanh5945.github.io/publication/2021_uncertainty/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://yanyanh5945.github.io/publication/2021_uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A theory-guided deep neural network for time fomain electromagnetic dimulation and inversion using a differentiable programming platform</title>
+      <link>https://yanyanh5945.github.io/publication/2021_rnn_fdtd/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/publication/2021_rnn_fdtd/</guid>
       <description></description>
     </item>
     
@@ -255,6 +271,43 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://yanyanh5945.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/talk/</guid>
+      <description>&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;!-- ### 2023 --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;08/31/2023, &lt;a href=&#34;https://ieee-jmmct.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE J-MMCT&lt;/a&gt;, Online&lt;/strong&gt;:
+Physics-guided Deep Learning Methods for Time Domain EM Simulations &lt;a href=&#34;https://vimeo.com/ieeejmmct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[video]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ### 2021 --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;01/27/2021, Katy Drilling Software Center (KDSC) at &lt;a href=&#34;https://www.slb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Schlumberger&lt;/a&gt;, Houston&lt;/strong&gt;:
+Physics-guided machine learning/deep learning for forward &amp;amp; inverse modeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;oral-presentations&#34;&gt;Oral Presentations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wei, X. Wu, J. Sun, Y. Huang, and J. Chen, &amp;ldquo;Deep Learning Enhanced Joint Inversion for Mineral Exploration Using Airborne Geophysics: Application in Decorah Area&amp;rdquo;, IMAGE &amp;lsquo;23 , the joint SEG/AAPE Annual Meeting, 2023.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;Deep Learning Enhanced Joint Inversion for Multiple-physics Data&amp;rdquo;, Workshop on IMAGE &amp;lsquo;23: Energy Transition: How to use multidiscipline and multiphysics to power energy transition? 2023. &lt;a href=&#34;https://www.imageevent.org/program/workshops/workshop/machine-learning-applications-fwi-seismic-imaging&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[News Posts]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wu, and J. Chen, &amp;ldquo;Deep Perceptual Loss for Multi-Physics Joint Inversion&amp;rdquo;, the 83rd EAGE Annual Conference &amp;amp; Exhibition, 2022. &lt;a href=&#34;https://www.earthdoc.org/content/papers/10.3997/2214-4609.202210780&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, J. Chen, X. Wu, and Y. Huang, &amp;ldquo;Deep Learning Enhanced Joint Inversion of Multiphysics Data with Nonconforming Discretization&amp;rdquo;, the 2021 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (APS/URSI), 2021. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9703802&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;Deep Learning-Enhanced Multiphysics Joint Inversion&amp;rdquo;, IMAGE &amp;lsquo;21 , the joint SEG/AAPE Annual Meeting, 2021. &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/segam2021-3583667.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Y. Jin, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wu, J. Chen, &amp;ldquo;RNN-based Gradient Prediction for Solving Magnetotelluric Inverse Problem&amp;rdquo;, SEG International Exposition and Annual Meeting, 2020. &lt;a href=&#34;https://onepetro.org/SEGAM/proceedings-abstract/SEG20/4-SEG20/462709&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;S. Wnag, W. Hu, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wu, J. Chen, &amp;ldquo;A Physics-augmented Deep Learning Method for Seismic Data Deblending&amp;rdquo;, SEG International Exposition and Annual Meeting, 2020. &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/segam2020-w13-07.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;A Supervised Descent Learning Technique for Inversion of Directional Electromagnetic Logging-While-Drilling Data&amp;rdquo;, SEG International Exposition and Annual Meeting, 2020. &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/segam2020-3415191.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;A Physics-driven Deep-learning Inverse Solver for Subsurface Sensing&amp;rdquo;, 2020 IEEE USNC-CNC-URSI North American Radio Science Meeting (Joint with AP-S Symposium), 2020. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9321649&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;Solving Time Domain Electromagnetic Problems using a Differentiable Programming Platform&amp;rdquo;, 2020 IEEE USNC-CNC-URSI North American Radio Science Meeting (Joint with AP-S Symposium), 2020. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9321666&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;poster-presentations&#34;&gt;Poster Presentations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;A flexible and versatile joint inversion framework using deep learning&amp;rdquo;, IMAGE &amp;lsquo;22 , the joint SEG/AAPE Annual Meeting, 2022. &lt;a href=&#34;https://www.researchgate.net/publication/373821260_A_flexible_and_versatile_joint_inversion_framework_using_deep_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Poster]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;Deep Learning Enhanced Joint Inversion for Monitoring of Underground CO2 Storage Sites&amp;rdquo;, UH Energy Research Day, 2023. &lt;a href=&#34;https://www.researchgate.net/publication/373821359_Deep_Learning_Enhanced_Joint_Inversion_for_Monitoring_of_Underground_CO2_Storage_Sites&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Poster]&lt;/a&gt; &lt;a href=&#34;https://www.uh.edu/news-events/stories/2023/august-2023/08232023-energy-research-day.php#:~:text=The%20University%20of%20Houston%27s%20annual,scholars%20across%20all%20academic%20disciplines.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[News Posts]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>https://yanyanh5945.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -292,34 +345,6 @@
 ### Grants
 - **2020-2021:** \$1,000; Proposal:&#34;Uncertainty Analysis of Geophysical Inversions Conditioned on Spatial Distributions of Geologic Units&#34;; [Student Research Funding Program](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2021/1011-student-research.php) (independent of advisor) from EAS Department at University of Houston; PI: Xiaolong Wei --&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;awards--honors&#34;&gt;Awards &amp;amp; Honors&lt;/h3&gt;
-&lt;!-- #### University of Houston
-- **2022:** [Dan E. Wells Outstanding Dissertation Award](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php)
-- **2022:** Outstanding Graduate Work in Geophysics (\$1,250)
-- **2021:** Student Travel Award (\$1,000)
-- **2020-2021:** Outstanding Academic Achievement (\$700*2)
-
-#### SEG
-- **2022:** Nomination of “Geophysics Bright Spots” in The Leading Edge by GEOPHYSCIS editorial board
-- **2022:** SEG Lucien LaCoste Scholarship (\$5,305.12)
-- **2022:** The Best Paper in the Mining Sessions at 2021 IMAGE Annual Meeting (co-author)
-- **2022:** The Best Student Paper in the Mining Sessions at 2021 IMAGE Annual Meeting
-- **2021:** SEG Technical Program Registration Grant
-- **2021:** SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients) (\$510.86)
-- **2021:** The Best Poster in the Mining Sessions at 2020 SEG Annual Meeting --&gt;
-&lt;!-- #### others --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; PROS Hackathon – Winning Team, Houston ($ 2,000)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2015-2018:&lt;/strong&gt; Outstanding Graduate Student, Xidian University&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2015-2016:&lt;/strong&gt; First Class Graduate Scholarship (Top 5%), Xidian University, (￥2,000)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; National Scholarship (Top 1%), China (￥5,000)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; Meritorious Winner Award in the Mathematical Contest in Modeling (MCM)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2013:&lt;/strong&gt; National Encouragement Scholarship (Top 1%), China (￥5,000)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2012-2013:&lt;/strong&gt; Outstanding Volunteer of College Students Psychological Education Activity, Xi&amp;rsquo;an, China&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2012:&lt;/strong&gt; Leader of Outstanding Summer Social Practice Team of Xidian University&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2011-2012:&lt;/strong&gt; Role Model Freshmen of Academic Merit (1%), Xidian University&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
 &lt;!-- ### Professional Service \&amp; Outreach --&gt;
 &lt;h3 id=&#34;peer-reviewer&#34;&gt;Peer Reviewer&lt;/h3&gt;
 &lt;ul&gt;
@@ -352,22 +377,34 @@
 - **2021:** ISInProG@Lario - 2021 International School on Inverse Problems in Geophysics on the shore of the Lario Lake
 - **2021:** Magnetotellurics (MT) short course given by Dr. Alan G. Jones
 - **2018:** Machine Learning course given by Dr. Andrew Ng through Coursera, Inc. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Invited Talks</title>
-      <link>https://yanyanh5945.github.io/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/talk/</guid>
-      <description>&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;09/22, Geophysical Society of Houston, Houston:&lt;/strong&gt;
-A Bayesian framework for uncertainty quantification of salt body shapes using gravity data&lt;/p&gt;
-&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;11/16, Geophysical Society of Houston, Houston:&lt;/strong&gt;
-Build probabilistic quasi-geology models based on multiple airborne geophysical data and sparse joint inversions&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;09/09, SimPEG Monthly Seminar, Online:&lt;/strong&gt;
-From deterministic to probabilistic geoscience modeling: analyzing uncertainties of geophysical inversions and constructing probabilistic subsurface models conditioned on petrophysical measurements&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;awards--honors&#34;&gt;Awards &amp;amp; Honors&lt;/h3&gt;
+&lt;!-- #### University of Houston
+- **2022:** [Dan E. Wells Outstanding Dissertation Award](https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php)
+- **2022:** Outstanding Graduate Work in Geophysics (\$1,250)
+- **2021:** Student Travel Award (\$1,000)
+- **2020-2021:** Outstanding Academic Achievement (\$700*2)
+
+#### SEG
+- **2022:** Nomination of “Geophysics Bright Spots” in The Leading Edge by GEOPHYSCIS editorial board
+- **2022:** SEG Lucien LaCoste Scholarship (\$5,305.12)
+- **2022:** The Best Paper in the Mining Sessions at 2021 IMAGE Annual Meeting (co-author)
+- **2022:** The Best Student Paper in the Mining Sessions at 2021 IMAGE Annual Meeting
+- **2021:** SEG Technical Program Registration Grant
+- **2021:** SEG [John R. Butler Jr. Scholarship](https://seg.org/Education/Student/Student-Opportunities/Scholarships/List-of-scholarship-recipients) (\$510.86)
+- **2021:** The Best Poster in the Mining Sessions at 2020 SEG Annual Meeting --&gt;
+&lt;!-- #### others --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; PROS Hackathon – Winning Team, Houston ($ 2,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015-2018:&lt;/strong&gt; Outstanding Graduate Student, Xidian University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015-2016:&lt;/strong&gt; First Class Graduate Scholarship (Top 5%), Xidian University, (￥2,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; National Scholarship (Top 1%), China (￥5,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2014:&lt;/strong&gt; Meritorious Winner Award in the Mathematical Contest in Modeling (MCM)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2013:&lt;/strong&gt; National Encouragement Scholarship (Top 1%), China (￥5,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2012-2013:&lt;/strong&gt; Outstanding Volunteer of College Students Psychological Education Activity, Xi&amp;rsquo;an, China&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2012:&lt;/strong&gt; Leader of Outstanding Summer Social Practice Team of Xidian University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2011-2012:&lt;/strong&gt; Role Model Freshmen of Academic Merit (1%), Xidian University&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -415,7 +452,7 @@ Yanyan attended the 83rd EAGE (European Association of Geoscientists &amp;amp; E
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;05/30&lt;/strong&gt;:
-Yanyan start her Summer Intern in Products department at &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
+Yanyan started her Summer Intern in Products department at &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
