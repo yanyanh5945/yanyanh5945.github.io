@@ -272,10 +272,206 @@
     
     <item>
       <title></title>
+      <link>https://yanyanh5945.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/news/</guid>
+      <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;!-- - **2022**: Ph.D. in Geophysics,
+  [University of Houston](https://uh.edu/nsm/earth-atmospheric/), Houston, USA --&gt;
+&lt;ul&gt;
+&lt;li&gt;2018: M.S. in Signal and Information Processing,
+Xidian University&lt;/li&gt;
+&lt;li&gt;2015: B.S. in Electronic Engineering,
+Xidian University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h3&gt;
+&lt;!-- - **2022**: Ph.D. in Geophysics,
+  [University of Houston](https://uh.edu/nsm/earth-atmospheric/), Houston, USA --&gt;
+&lt;ul&gt;
+&lt;li&gt;2019 - present: Research Assistant
+&lt;ul&gt;
+&lt;li&gt;University of Houston (Houston, TX)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Summer 2022: Deep Learning Engineer Intern
+&lt;ul&gt;
+&lt;li&gt;PROS (Houston, TX)&lt;/li&gt;
+&lt;li&gt;Project: &amp;ldquo;Graph Neural Network (GNN) for Spatial-temporal Demand Forecasting&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Mentors: Dr. Justin Silver, Dr. Yan Xu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Summer 2021: Deep Learning Engineer Intern
+&lt;ul&gt;
+&lt;li&gt;PROS (Houston, TX)&lt;/li&gt;
+&lt;li&gt;Project: &amp;ldquo;Deep Learning Approach for Cold-start Problem in Recommender System&amp;rdquo; and &amp;ldquo;Multi-Task Learning for Demand Prediction Through a Hyper-Network&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Mentors: Dr. Yan Xu, Mr. Manu Chaudhary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2014/10 - 2015/5: Field Application Engineer Intern
+&lt;ul&gt;
+&lt;li&gt;Texas Instruments (Shanghai, China)&lt;/li&gt;
+&lt;li&gt;Project: &amp;ldquo;Fast image pre-processing algorithms for face detection on Embedded Vision Engine (EVE)&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Mentor: Dr. Jing Cui&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;skills--languages&#34;&gt;Skills &amp;amp; Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming: Python, Matlab, C/C++&lt;/li&gt;
+&lt;li&gt;AI Framwroks: Pytorch, Tensorflow, Scikit-learn&lt;/li&gt;
+&lt;li&gt;Data Manipulation: SQL, PySpark, Pandas&lt;/li&gt;
+&lt;li&gt;Toolkits: Docker, Linux, Git, LaTex, Databricks&lt;/li&gt;
+&lt;li&gt;Languages: English, Chinese (Mandarin)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reviewers&#34;&gt;Reviewers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;IEEE Transactions on Electromagnetic Compatibility, 2023&lt;/li&gt;
+&lt;li&gt;IEEE Antennas and Wireless Propagation Letters, 2023&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Antennas and Propagation, 2022&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Geoscience and Remote Sensing, 2022&lt;/li&gt;
+&lt;li&gt;IEEE Geoscience and Remote Sensing Letters. 2021&lt;/li&gt;
+&lt;li&gt;IEEE Journal on Multiscale and Multiphysics Computational Techniques, 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;h4 id=&#34;journal-articles&#34;&gt;Journal Articles&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wei, X. Wu, J. Sun, J. Chen, Y. Huang, and J. Chen, “A Deep Learning-enhanced Framework for Multiphysics Joint Inversion”, in Geophysics, vol 88, no. 1, pp. 13-26, Jan. 2023, &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/geo2021-0589.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1190/geo2021-0589.1&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Y. Jin, Y. Zi, W. Hu, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wu and J. Chen, &amp;ldquo;A Robust Learning Method for Low-Frequency Extrapolation in GPR Full Waveform Inversion,&amp;rdquo; in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, Sep. 2022, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9885220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1109/LGRS.2022.3205590&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, Y. Jin, X. Wu, and J. Chen, “A Theory-guided Deep Neural Network for Time Domain Electromagnetic Simulation and Inversion Using a Differentiable Programming Platform”, in IEEE Transactions on Antennas &amp;amp; Propagation, vol. 70, no. 1, pp. 767-772, Jan. 2022, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9496209&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1109/TAP.2021.3098585&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;P. Zhang, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, Y. Jin, S. Deng, X. Wu, and J. Chen, &amp;ldquo;A Maxwell&amp;rsquo;s Equations Based Deep Learning Method for Time Domain Electromagnetic Simulations,&amp;rdquo; in IEEE Journal on Multiscale and Multiphysics Computational Techniques, vol. 6, pp. 35-40, 2021, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9350148&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1109/JMMCT.2021.3057793&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, R. Guo, Y. Jin, X. Wu, M. Li, A. Abubakar, and J. Chen, “A supervised descent learning technique for solving directional electromagnetic logging-while-drilling inverse problems,&amp;quot; in IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 11, pp. 8013-8025, Nov. 2020, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9078876&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi: 10.1109/TGRS.2020.2986000&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;conference-abstracts-and-posters&#34;&gt;Conference Abstracts and Posters&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, J. Chen, X. Wu, and Y. Huang, “A flexible and versatile joint inversion framework using deep learning,” The 2022 International Meeting for Applied Geoscience &amp;amp; Energy (IMAGE), Houston, TX, USA, Aug. 2022.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, J. Chen, X. Wu and Y. Huang, &amp;ldquo;Multiphysics Joint Inversion Using Successive Deep Perceptual Constraints,&amp;rdquo; 2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI), Denver, CO, USA, Jul. 2022.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wu, and J. Chen, &amp;quot; Deep Perceptual Loss for Multi-Physics Joint Inversion,&amp;quot; 83rd EAGE Annual Conference &amp;amp; Exhibition, Madrid, Spain, Jun, 2022.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, J. Chen, X. Wu and Y. Huang, &amp;ldquo;Deep Learning Enhanced Joint Inversion of Multiphysics Data with Nonconforming Discretization,&amp;rdquo; 2021 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (APS/URSI), Singapore, Singapore, 2021.&lt;/li&gt;
+&lt;li&gt;M. Chaudhary, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, S. Boluki, “Multi-Task Learning for Demand Prediction Through a Hyper-Network”, Ken Kennedy AI and Data Science Conference, Oct. 2021.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wei, X. Wu, J. Sun, J. Chen, Y. Huang, and J. Chen, “Deep learning-enhanced multiphysics joint inversion”, First International Meeting for Applied Geoscience &amp;amp; Energy (IMAGE), Denver, CO, USA, Sep. 2021.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, Y. Jin, X. Wu and J. Chen, &amp;ldquo;Solving Time Domain Electromagnetic Forward and Inverse Problems using a Differentiable Programming Platform,&amp;rdquo; 2021 International Conference on Electromagnetics in Advanced Applications (ICEAA), Honolulu, HI, USA, Oct. 2021.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, Y. Jin, X. Wu, J. Chen, J. Chen, Q. Shen, Y. Huang, &amp;ldquo;Deep Learning Enhanced Joint Geophysical Inversion for Crosswell Monitoring,&amp;rdquo; 2021 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), Boulder, CO, USA, Jan. 2021.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, R. Guo, Y. Jin, X. Wu, M. Li, A. Abubakar, and J. Chen, “A supervised descent learning technique for inversion of directional electromagnetic logging-while-drilling data,” The 90th SEG Annual Meeting, Oct. 2020.&lt;/li&gt;
+&lt;li&gt;Y. Jin, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wu, and J. Chen, “RNN-based gradient prediction for solving magnetotelluric inverse problem,” The 90th SEG Annual Meeting, Oct. 2020.&lt;/li&gt;
+&lt;li&gt;S. Wang, W. Hu, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wu, and J. Chen, “A physics-augmented deep learning method for seismic data deblending,” The 90th SEG Annual Meeting, Oct. 2020.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, Y. Jin, X. Wu, and J. Chen, &amp;ldquo;Solving Time Domain Electromagnetic Problems using a Differentiable Programming Platform,&amp;rdquo; 2020 IEEE USNC-CNC-URSI North American Radio Science Meeting (Joint with AP-S Symposium), Montreal, QC, Canada, 2020.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, Y. Jin, X. Wu, and J. Chen, “A physics-driven deep-learning inverse solver for subsurface sensing”, The 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montréal, Canada, Jul. 2020.&lt;/li&gt;
+&lt;li&gt;P. Zhang, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, Y. Jin, S. Deng, X. Wu, and J. Chen, &amp;ldquo;A Maxwell&amp;rsquo;s Equations Based Deep Learning Method for Time Domain Electromagnetic Simulations,&amp;rdquo; 2020 IEEE Texas Symposium on Wireless and Microwave Circuits and Systems (WMCS), Waco, TX, USA, 2020.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, Y. Jin, X. Wu, and J. Chen, “A PDE-based Deep Learning Scheme for Time Domain Electromagnetic Simulations,” The 42nd Progress in Electromagnetics Research Symposium, Xiamen, China, Dec. 2019.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, R. Guo, Y. Jin, X. Wu, M. Li, A. Abubakar, and J. Chen, “A Supervised Descent Learning Technique for Solving Well Logging Inverse Problems,” SPWLA Resistivity SIG Meeting, Houston, TX, USA, Nov. 2019.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;patent&#34;&gt;Patent&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;T. Wang, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, C. Liu, “A Method of Improving the Accuracy of Direction of Arrival Estimation,” Application No 201810500858.6, May. 2018.&lt;/li&gt;
+&lt;li&gt;T. Wang, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, J. Liu, J. Li, “A Multi-step Optimization Method of Maximizing Area Coverage for UAVs Based on Ant Colony Algorithm,” Application No 201710510054.6, Jun. 2017.&lt;/li&gt;
+&lt;li&gt;B. Han, &lt;strong&gt;Yanyan Hu&lt;/strong&gt;, J. Zhang, W. Qiu, S. Huang, R. Li, L. Sha, “Image Sequence Region of Interest Detection Based on Improved Visual Attention Model, Patent ID ZL2014 1 0317739.5,” approved on Feb. 15, 2017.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+- **08/28**:
+  Yanyan attended IMAGE &#39;23, the joint SEG/AAPE Annual Meeting in Houston, and gave one oral presentation and one workshop.
+
+- **02/27**:
+  Yanyan successfully defended her doctoral thesis proposal!
+
+- **01/01**:
+  Yanyan published her fifth manuscript on [Geophysics](https://library.seg.org/doi/abs/10.1190/geo2021-0589.1).
+
+### 2022
+- **09/12**:
+  Yanyan published her fourth manuscript on [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/abstract/document/9885220).
+
+- **08/28**:
+  Yanyan attended IMAGE &#39;22, the joint SEG/AAPE Annual Meeting in Houston, and gave a poster presentation.
+
+- **07/25**:
+  Yanyan won the yearly intern Hackthon with her team reBAES at [PROS](https://pros.com/).
+
+- **06/06**:
+  Yanyan attended the 83rd EAGE (European Association of Geoscientists &amp; Engineers) Annual Conference &amp; Exhibition, and gave one oral presentation. 
+
+- **05/30**:
+  Yanyan started her Summer Intern in Products department at [PROS](https://pros.com/).
+
+### 2021
+
+- **12/01**:
+  Yanyan attended the 2021 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (APS/URSI), and gave one oral presentation.  
+
+- **09/27**:
+  Yanyan attended IMAGE &#39;21, the joint SEG/AAPE Annual Meeting in Denver, and gave one oral presentation.
+
+- **04/09**:
+  Yanyan received her returning offer Intern - Science in the Products department from [PROS](https://pros.com/).
+
+- **08/09**:
+  Yanyan attended the 2021 International Conference on Electromagnetics in Advanced Applications (ICEAA), and gave one oral presentation.
+
+- **07/26**:
+  Yanyan published her third manuscript on [IEEE Transactions on Antennas and Propagation](https://ieeexplore.ieee.org/abstract/document/9496209).
+
+- **04/09**:
+  Yanyan received her offer Intern - Science in the Science department from [PROS](https://pros.com/).
+
+- **02/08**:
+  Yanyan published her second manuscript on [IEEE Journal on Multiscale and Multiphysics Computational Techniques](https://ieeexplore.ieee.org/abstract/document/9350148).
+
+- **01/04**:
+  Yanyan attended the 2021 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), and gave one oral presentation.
+
+### 2020
+
+- **09/30**:
+  Yanyan attended the SEG International Exposition and Annual Meeting 2020, and gave one oral presentation.
+
+- **07/05**:
+  Yanyan attended the 2020 IEEE USNC-CNC-URSI North American Radio Science Meeting (Joint with AP-S Symposium), and gave two oral presentations.
+
+- **04/27**:
+  Yanyan published her first manuscript on [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/abstract/document/9078876).
+
+- **01/27**:
+  Yanyan was invited by [Schlumberger](https://www.slb.com/) to give a talk &#34;Physics-guided machine learning/deep learning for forward &amp; inverse modeling&#34;, at Katy Drilling Software Center (KDSC) at Schlumberger, Houston
+
+### 2019
+
+- **10/08**:
+  Yanyan attended her first conference, the SPWLA RESISTIVITY SIG - FALL 2019 MEETING in Houston, and gave an oral presentation. --&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yanyanh5945.github.io/resource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/resource/</guid>
+      <description>&lt;h3 id=&#34;open-source-libraries&#34;&gt;Open-source libraries&lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://simpeg.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SimPEG&lt;/a&gt;: Simulation and Parameter Estimation in Geophysics, an open source python package for simulation and gradient based parameter estimation in geophysical applications. &lt;a href=&#34;https://github.com/simpeg/simpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.stride.codes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stride&lt;/a&gt;: an open-source library for ultrasound modelling and tomography that provides flexibility and scalability together with production-grade performance.&lt;/p&gt;
+&lt;!-- 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; [Open EIT](https://www.opensourceimaging.org/project/open-eit-electrical-impedance-tomography/): Electrical Impedance Tomography, Python based dashboard for real-time Electrical Impedance Tomography. [GitHub](https://github.com/OpenEIT/OpenEIT) --&gt;
+&lt;!-- ### Synthetic models
+
+
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Horseshoe shaped realistic [density](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_dens) and [susceptibility](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_susc) models. [Paper](https://library.seg.org/doi/abs/10.1190/geo2020-0672.1) --&gt;
+&lt;h3 id=&#34;my-favorite-tutorials&#34;&gt;My favorite tutorials&lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.eecs.harvard.edu/htk/phdadvice/#10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Ph.D. Advice&lt;/em&gt;&lt;/a&gt; by Prof. H.T. Kung, Harvard University.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Science of Scientific Writing&lt;/em&gt;&lt;/a&gt; by Prof. George D. Gopen and Judith A. Swan, Duke University.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/1.9781560801719.ch5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Inversion for applied geophysics: A tutorial&lt;/em&gt;&lt;/a&gt; by Prof. Douglas W. Oldenburg and Yaoguo Li, University of British Columbia and Colorado School of Mines.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.cambridge.org/engage/coe/article-details/60e6a70d609d0d7fa3d893a7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Lecture Notes on Inverse Theory&lt;/em&gt;&lt;/a&gt; by Prof. Andreas Fichtner, ETH Zurich.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://yanyanh5945.github.io/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yanyanh5945.github.io/talk/</guid>
-      <description>&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+      <description>&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
 &lt;!-- ### 2023 --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;08/31/2023, &lt;a href=&#34;https://ieee-jmmct.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE J-MMCT&lt;/a&gt;, Online&lt;/strong&gt;:
@@ -286,7 +482,7 @@ Physics-guided Deep Learning Methods for Time Domain EM Simulations &lt;a href=&
 &lt;li&gt;&lt;strong&gt;01/27/2021, Katy Drilling Software Center (KDSC) at &lt;a href=&#34;https://www.slb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Schlumberger&lt;/a&gt;, Houston&lt;/strong&gt;:
 Physics-guided machine learning/deep learning for forward &amp;amp; inverse modeling&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;oral-presentations&#34;&gt;Oral Presentations&lt;/h2&gt;
+&lt;h3 id=&#34;oral-presentations&#34;&gt;Oral Presentations&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, X. Wei, X. Wu, J. Sun, Y. Huang, and J. Chen, &amp;ldquo;Deep Learning Enhanced Joint Inversion for Mineral Exploration Using Airborne Geophysics: Application in Decorah Area&amp;rdquo;, IMAGE &amp;lsquo;23 , the joint SEG/AAPE Annual Meeting, 2023.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;Deep Learning Enhanced Joint Inversion for Multiple-physics Data&amp;rdquo;, Workshop on IMAGE &amp;lsquo;23: Energy Transition: How to use multidiscipline and multiphysics to power energy transition? 2023. &lt;a href=&#34;https://www.imageevent.org/program/workshops/workshop/machine-learning-applications-fwi-seismic-imaging&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[News Posts]&lt;/a&gt;&lt;/li&gt;
@@ -299,7 +495,7 @@ Physics-guided machine learning/deep learning for forward &amp;amp; inverse mode
 &lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;A Physics-driven Deep-learning Inverse Solver for Subsurface Sensing&amp;rdquo;, 2020 IEEE USNC-CNC-URSI North American Radio Science Meeting (Joint with AP-S Symposium), 2020. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9321649&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;Solving Time Domain Electromagnetic Problems using a Differentiable Programming Platform&amp;rdquo;, 2020 IEEE USNC-CNC-URSI North American Radio Science Meeting (Joint with AP-S Symposium), 2020. &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9321666&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Abstract]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;poster-presentations&#34;&gt;Poster Presentations&lt;/h2&gt;
+&lt;h3 id=&#34;poster-presentations&#34;&gt;Poster Presentations&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;A flexible and versatile joint inversion framework using deep learning&amp;rdquo;, IMAGE &amp;lsquo;22 , the joint SEG/AAPE Annual Meeting, 2022. &lt;a href=&#34;https://www.researchgate.net/publication/373821260_A_flexible_and_versatile_joint_inversion_framework_using_deep_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Poster]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;Deep Learning Enhanced Joint Inversion for Monitoring of Underground CO2 Storage Sites&amp;rdquo;, UH Energy Research Day, 2023. &lt;a href=&#34;https://www.researchgate.net/publication/373821359_Deep_Learning_Enhanced_Joint_Inversion_for_Monitoring_of_Underground_CO2_Storage_Sites&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Poster]&lt;/a&gt; &lt;a href=&#34;https://www.uh.edu/news-events/stories/2023/august-2023/08232023-energy-research-day.php#:~:text=The%20University%20of%20Houston%27s%20annual,scholars%20across%20all%20academic%20disciplines.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[News Posts]&lt;/a&gt;&lt;/li&gt;
@@ -409,151 +605,11 @@ Physics-guided machine learning/deep learning for forward &amp;amp; inverse mode
     </item>
     
     <item>
-      <title>News</title>
-      <link>https://yanyanh5945.github.io/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/news/</guid>
-      <description>&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;08/31&lt;/strong&gt;:
-Yanyan was invited by &lt;a href=&#34;https://ieee-jmmct.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE J-MMCT&lt;/a&gt; to give a talk &amp;ldquo;&lt;a href=&#34;https://vimeo.com/ieeejmmct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Physics-guided Deep Learning Methods for Time Domain EM Simulations&lt;/a&gt;&amp;rdquo; online.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;08/28&lt;/strong&gt;:
-Yanyan attended IMAGE &amp;lsquo;23, the joint SEG/AAPE Annual Meeting in Houston, and gave one oral presentation and one workshop.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;02/27&lt;/strong&gt;:
-Yanyan successfully defended her doctoral thesis proposal!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;01/01&lt;/strong&gt;:
-Yanyan published her fifth manuscript on &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/geo2021-0589.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geophysics&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;09/12&lt;/strong&gt;:
-Yanyan published her fourth manuscript on &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9885220&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Geoscience and Remote Sensing Letters&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;08/28&lt;/strong&gt;:
-Yanyan attended IMAGE &amp;lsquo;22, the joint SEG/AAPE Annual Meeting in Houston, and gave a poster presentation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;07/25&lt;/strong&gt;:
-Yanyan won the yearly intern Hackthon with her team reBAES at &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;06/06&lt;/strong&gt;:
-Yanyan attended the 83rd EAGE (European Association of Geoscientists &amp;amp; Engineers) Annual Conference &amp;amp; Exhibition, and gave one oral presentation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;05/30&lt;/strong&gt;:
-Yanyan started her Summer Intern in Products department at &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;12/01&lt;/strong&gt;:
-Yanyan attended the 2021 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (APS/URSI), and gave one oral presentation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;09/27&lt;/strong&gt;:
-Yanyan attended IMAGE &amp;lsquo;21, the joint SEG/AAPE Annual Meeting in Denver, and gave one oral presentation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;04/09&lt;/strong&gt;:
-Yanyan received her returning offer Intern - Science in the Products department from &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;08/09&lt;/strong&gt;:
-Yanyan attended the 2021 International Conference on Electromagnetics in Advanced Applications (ICEAA), and gave one oral presentation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;07/26&lt;/strong&gt;:
-Yanyan published her third manuscript on &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9496209&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Antennas and Propagation&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;04/09&lt;/strong&gt;:
-Yanyan received her offer Intern - Science in the Science department from &lt;a href=&#34;https://pros.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROS&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;02/08&lt;/strong&gt;:
-Yanyan published her second manuscript on &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9350148&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Journal on Multiscale and Multiphysics Computational Techniques&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;01/04&lt;/strong&gt;:
-Yanyan attended the 2021 United States National Committee of URSI National Radio Science Meeting (USNC-URSI NRSM), and gave one oral presentation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;09/30&lt;/strong&gt;:
-Yanyan attended the SEG International Exposition and Annual Meeting 2020, and gave one oral presentation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;07/05&lt;/strong&gt;:
-Yanyan attended the 2020 IEEE USNC-CNC-URSI North American Radio Science Meeting (Joint with AP-S Symposium), and gave two oral presentations.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;04/27&lt;/strong&gt;:
-Yanyan published her first manuscript on &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9078876&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Geoscience and Remote Sensing&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;01/27&lt;/strong&gt;:
-Yanyan was invited by &lt;a href=&#34;https://www.slb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Schlumberger&lt;/a&gt; to give a talk &amp;ldquo;Physics-guided machine learning/deep learning for forward &amp;amp; inverse modeling&amp;rdquo;, at Katy Drilling Software Center (KDSC) at Schlumberger, Houston&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;10/08&lt;/strong&gt;:
-Yanyan attended her first conference, the SPWLA RESISTIVITY SIG - FALL 2019 MEETING in Houston, and gave an oral presentation.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Research</title>
       <link>https://yanyanh5945.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yanyanh5945.github.io/research/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://yanyanh5945.github.io/resource/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/resource/</guid>
-      <description>&lt;h3 id=&#34;open-code&#34;&gt;Open code&lt;/h3&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fab fa-github  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Find my code in &lt;a href=&#34;https://github.com/xiaolongw1223/Code-publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Joint inversion of gravity gradient and magnetic data using mixed Lp norm regularization. &lt;a href=&#34;https://zenodo.org/record/5774303#.YmQ2yPPMJTY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Interactive geology differentiation and 3D visualization of geological units. &lt;a href=&#34;https://zenodo.org/record/5774309#.YmQ3r_PMJTY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;Paper1&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;Paper2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Uncertainty analysis of 3D potential-field deterministic inversion using mixed L p norms. &lt;a href=&#34;https://github.com/xiaolongw1223/Code-publications/tree/main/2021-Wei-and-Sun-GEOPHYSICS-uncertainty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;, &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/geo2020-0672.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Solving the bound dependence and staircasing problems in 3D potential-field sparse inversions using a mixed Lp-norm regularization. &lt;a href=&#34;https://zenodo.org/record/4057134#.YmQ36_PMJTY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;, &lt;a href=&#34;https://www.earthdoc.org/content/journals/10.1111/1365-2478.13063&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;synthetic-models&#34;&gt;Synthetic models&lt;/h3&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Horseshoe shaped realistic &lt;a href=&#34;https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_dens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;density&lt;/a&gt; and &lt;a href=&#34;https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_susc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;susceptibility&lt;/a&gt; models. &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/geo2020-0672.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;my-favorite-tutorials&#34;&gt;My favorite tutorials&lt;/h3&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.eecs.harvard.edu/htk/phdadvice/#10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Ph.D. Advice&lt;/em&gt;&lt;/a&gt; by Prof. H.T. Kung, Harvard University.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Science of Scientific Writing&lt;/em&gt;&lt;/a&gt; by Prof. George D. Gopen and Judith A. Swan, Duke University.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/1.9781560801719.ch5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Inversion for applied geophysics: A tutorial&lt;/em&gt;&lt;/a&gt; by Prof. Douglas W. Oldenburg and Yaoguo Li, University of British Columbia and Colorado School of Mines.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.cambridge.org/engage/coe/article-details/60e6a70d609d0d7fa3d893a7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Lecture Notes on Inverse Theory&lt;/em&gt;&lt;/a&gt; by Prof. Andreas Fichtner, ETH Zurich.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
