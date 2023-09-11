@@ -5,12 +5,20 @@
     <link>https://yanyanh5945.github.io/publication/</link>
       <atom:link href="https://yanyanh5945.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yanyanh5945.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://yanyanh5945.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>3D deep learning inversion</title>
+      <link>https://yanyanh5945.github.io/publication/2023_dl_ji_3d/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/publication/2023_dl_ji_3d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A deep learning enhanced framework for multi-physics joint inversion</title>
@@ -21,58 +29,10 @@
     </item>
     
     <item>
-      <title>DL 3D gravity inversion</title>
-      <link>https://yanyanh5945.github.io/publication/2023_deep_learning_inv/</link>
-      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2023_deep_learning_inv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D Monte Carlo inversion</title>
-      <link>https://yanyanh5945.github.io/publication/2023_3d_monte_carlo/</link>
-      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2023_3d_monte_carlo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-salt reconstruction</title>
-      <link>https://yanyanh5945.github.io/publication/2023_multi_salt_reconstruction/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2023_multi_salt_reconstruction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantifying uncertainty of salt body shapes recovered from gravity data using trans-dimensional Markov chain Monte Carlo sampling</title>
-      <link>https://yanyanh5945.github.io/publication/2022_uncertainty_salt_shape/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2022_uncertainty_salt_shape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D probabilistic geology differentiation based on airborne geophysics, mixed L p norm joint inversion and physical property measurements</title>
-      <link>https://yanyanh5945.github.io/publication/2022_probabilistic_differentiation/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2022_probabilistic_differentiation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping critical mineral resources using airborne geophysics, 3D joint inversion and geology differentiation: A case study of a buried niobium deposit in the Elk Creek carbonatite, Nebraska, USA</title>
-      <link>https://yanyanh5945.github.io/publication/2022_elk_creek/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2022_elk_creek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainty analysis of 3D potential-field deterministic inversion using mixed L p norms</title>
-      <link>https://yanyanh5945.github.io/publication/2021_uncertainty/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2021_uncertainty/</guid>
+      <title>A maxwell&#39;s equations based deep learning method for time domain electromagnetic simulations</title>
+      <link>https://yanyanh5945.github.io/publication/2022_learning_method_for_gpr_fwi/</link>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/publication/2022_learning_method_for_gpr_fwi/</guid>
       <description></description>
     </item>
     
@@ -93,18 +53,10 @@
     </item>
     
     <item>
-      <title>Recovering sparse models in 3D potential‐field inversion without bound dependence or staircasing problems using a mixed Lp‐norm regularization</title>
-      <link>https://yanyanh5945.github.io/publication/2020_sparse/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2020_sparse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unveiling the 3D undercover structure of a Precambrian intrusive complex by integrating airborne magnetic and gravity gradient data into 3D quasi-geology model building</title>
-      <link>https://yanyanh5945.github.io/publication/2020_decorah/</link>
-      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/publication/2020_decorah/</guid>
+      <title>A supervised descent learning technique for solving directional electromagnetic logging-while-drilling inverse problems</title>
+      <link>https://yanyanh5945.github.io/publication/2020_sdm/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/publication/2020_sdm/</guid>
       <description></description>
     </item>
     
