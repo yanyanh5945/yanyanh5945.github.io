@@ -1,10 +1,10 @@
-# Xiaolong's Academic Webpage!
+# Yanyan's Academic Webpage!
 
-This is the source code for my personal [academic webpage](https://xiaolongw1223.github.io/).
+This is the source code for my personal [academic webpage](https://yanyanh5945.github.io/).
 
 - Theme and template from [wowchemy](https://wowchemy.com/)
 - Build by [Hugo](https://gohugo.io/)
 
-I obtained lots of inspirations from the websites of [Dongdong Tian](https://me.seisman.info), [Leonardo Uirda](https://www.leouieda.com/), [Seogi Kang](https://sgkang.github.io/) and my Ph.D. advisor [Jiajia Sun](https://sites.google.com/view/jiajiasun).
+I obtained lots of inspirations from the websites of [Xiaolong Wei](https://xiaolongw1223.github.io/), and [Xiaoyang Li](https://xiaoyang-rebecca.github.io//).
 
-## Latest update: 04/25/2022
+## Latest update: 09/12/2023
