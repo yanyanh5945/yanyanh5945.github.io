@@ -178,9 +178,9 @@
     
     <item>
       <title></title>
-      <link>https://yanyanh5945.github.io/news/</link>
+      <link>https://yanyanh5945.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/news/</guid>
+      <guid>https://yanyanh5945.github.io/cv/</guid>
       <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
 &lt;!-- - **2022**: Ph.D. in Geophysics,
   [University of Houston](https://uh.edu/nsm/earth-atmospheric/), Houston, USA --&gt;
@@ -346,37 +346,9 @@ Xidian University&lt;/li&gt;
     
     <item>
       <title></title>
-      <link>https://yanyanh5945.github.io/resource/</link>
+      <link>https://yanyanh5945.github.io/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/resource/</guid>
-      <description>&lt;h3 id=&#34;open-source-libraries&#34;&gt;Open-source libraries&lt;/h3&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://simpeg.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SimPEG&lt;/a&gt;: Simulation and Parameter Estimation in Geophysics, an open source python package for simulation and gradient based parameter estimation in geophysical applications. &lt;a href=&#34;https://github.com/simpeg/simpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.stride.codes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stride&lt;/a&gt;: an open-source library for ultrasound modelling and tomography that provides flexibility and scalability together with production-grade performance.&lt;/p&gt;
-&lt;!-- 
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; [Open EIT](https://www.opensourceimaging.org/project/open-eit-electrical-impedance-tomography/): Electrical Impedance Tomography, Python based dashboard for real-time Electrical Impedance Tomography. [GitHub](https://github.com/OpenEIT/OpenEIT) --&gt;
-&lt;!-- ### Synthetic models
-
-
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Horseshoe shaped realistic [density](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_dens) and [susceptibility](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_susc) models. [Paper](https://library.seg.org/doi/abs/10.1190/geo2020-0672.1) --&gt;
-&lt;h3 id=&#34;my-favorite-tutorials&#34;&gt;My favorite tutorials&lt;/h3&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.eecs.harvard.edu/htk/phdadvice/#10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Ph.D. Advice&lt;/em&gt;&lt;/a&gt; by Prof. H.T. Kung, Harvard University.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Science of Scientific Writing&lt;/em&gt;&lt;/a&gt; by Prof. George D. Gopen and Judith A. Swan, Duke University.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/1.9781560801719.ch5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Inversion for applied geophysics: A tutorial&lt;/em&gt;&lt;/a&gt; by Prof. Douglas W. Oldenburg and Yaoguo Li, University of British Columbia and Colorado School of Mines.&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.cambridge.org/engage/coe/article-details/60e6a70d609d0d7fa3d893a7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Lecture Notes on Inverse Theory&lt;/em&gt;&lt;/a&gt; by Prof. Andreas Fichtner, ETH Zurich.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yanyanh5945.github.io/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/talk/</guid>
+      <guid>https://yanyanh5945.github.io/presentation/</guid>
       <description>&lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
 &lt;!-- ### 2023 --&gt;
 &lt;ul&gt;
@@ -406,6 +378,34 @@ Physics-guided machine learning/deep learning for forward &amp;amp; inverse mode
 &lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;A flexible and versatile joint inversion framework using deep learning&amp;rdquo;, IMAGE &amp;lsquo;22 , the joint SEG/AAPE Annual Meeting, 2022. &lt;a href=&#34;https://www.researchgate.net/publication/373821260_A_flexible_and_versatile_joint_inversion_framework_using_deep_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Poster]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Yanyan Hu&lt;/strong&gt;, et al., &amp;ldquo;Deep Learning Enhanced Joint Inversion for Monitoring of Underground CO2 Storage Sites&amp;rdquo;, UH Energy Research Day, 2023. &lt;a href=&#34;https://www.researchgate.net/publication/373821359_Deep_Learning_Enhanced_Joint_Inversion_for_Monitoring_of_Underground_CO2_Storage_Sites&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Poster]&lt;/a&gt; &lt;a href=&#34;https://www.uh.edu/news-events/stories/2023/august-2023/08232023-energy-research-day.php#:~:text=The%20University%20of%20Houston%27s%20annual,scholars%20across%20all%20academic%20disciplines.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[News Posts]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yanyanh5945.github.io/resource/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/resource/</guid>
+      <description>&lt;h3 id=&#34;open-source-libraries&#34;&gt;Open-source libraries&lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://simpeg.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SimPEG&lt;/a&gt;: Simulation and Parameter Estimation in Geophysics, an open source python package for simulation and gradient based parameter estimation in geophysical applications. &lt;a href=&#34;https://github.com/simpeg/simpeg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.stride.codes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stride&lt;/a&gt;: an open-source library for ultrasound modelling and tomography that provides flexibility and scalability together with production-grade performance.&lt;/p&gt;
+&lt;!-- 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; [Open EIT](https://www.opensourceimaging.org/project/open-eit-electrical-impedance-tomography/): Electrical Impedance Tomography, Python based dashboard for real-time Electrical Impedance Tomography. [GitHub](https://github.com/OpenEIT/OpenEIT) --&gt;
+&lt;!-- ### Synthetic models
+
+
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Horseshoe shaped realistic [density](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_dens) and [susceptibility](https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_susc) models. [Paper](https://library.seg.org/doi/abs/10.1190/geo2020-0672.1) --&gt;
+&lt;h3 id=&#34;my-favorite-tutorials&#34;&gt;My favorite tutorials&lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.eecs.harvard.edu/htk/phdadvice/#10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Ph.D. Advice&lt;/em&gt;&lt;/a&gt; by Prof. H.T. Kung, Harvard University.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Science of Scientific Writing&lt;/em&gt;&lt;/a&gt; by Prof. George D. Gopen and Judith A. Swan, Duke University.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://library.seg.org/doi/abs/10.1190/1.9781560801719.ch5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Inversion for applied geophysics: A tutorial&lt;/em&gt;&lt;/a&gt; by Prof. Douglas W. Oldenburg and Yaoguo Li, University of British Columbia and Colorado School of Mines.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-book  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.cambridge.org/engage/coe/article-details/60e6a70d609d0d7fa3d893a7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Lecture Notes on Inverse Theory&lt;/em&gt;&lt;/a&gt; by Prof. Andreas Fichtner, ETH Zurich.&lt;/p&gt;
 </description>
     </item>
     
