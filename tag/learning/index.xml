@@ -5,7 +5,7 @@
     <link>https://yanyanh5945.github.io/tag/learning/</link>
       <atom:link href="https://yanyanh5945.github.io/tag/learning/index.xml" rel="self" type="application/rss+xml" />
     <description>learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yanyanh5945.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>learning</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>3D deep learning joint inversion</title>
+      <title>3D U-Net based joint imaging</title>
       <link>https://yanyanh5945.github.io/project/deep_learning_joint_inversion_3d/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://yanyanh5945.github.io/project/deep_learning_joint_inversion_3d/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
 &lt;p&gt;Field case: recovered models by dfferent methods in each column. The first row is the susceptibility. The second row is the density. a1) - a3) Separate inversions. b1) - b3) Cross-gradient-based joint inversion. c1) - c3) DL-based inversions.&lt;/p&gt;
@@ -27,7 +27,35 @@
     </item>
     
     <item>
-      <title>Deep learning enhanced joint inversion</title>
+      <title>Deep perceptual losses for joint imaging</title>
+      <link>https://yanyanh5945.github.io/project/deep_perceptual_loss_ji/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/project/deep_perceptual_loss_ji/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;The diagram of DNNs for joint inversion using the deep perceptual losses.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;p&gt;Ongoing reserach&lt;/p&gt;
+&lt;!-- I participated in this research program led by [Yanyan Hu](https://scholar.google.com/citations?hl=en&amp;user=4I85QsoAAAAJ) from the [Department of Electrical and Computer Engineering](https://uh.edu/) under the supervision of Prof. [Jiefu Chen](https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;hl=en), [Xuqing Wu](https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;hl=en) and [Jiajia Sun](https://scholar.google.com/citations?hl=en&amp;user=j8vhgpMAAAAJ). --&gt;
+&lt;!-- We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust progressive learning For GPR full waveform inversion</title>
+      <link>https://yanyanh5945.github.io/project/learning_method_for_gpr_fwi/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/project/learning_method_for_gpr_fwi/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;Workflow of FWI using low-frequency data predicted by Robust Prossive Learning (RPL).&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;!-- I participated in this research program led by [Yanyan Hu](https://scholar.google.com/citations?hl=en&amp;user=4I85QsoAAAAJ) from the [Department of Electrical and Computer Engineering](https://uh.edu/) under the supervision of Prof. [Jiefu Chen](https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;hl=en), [Xuqing Wu](https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;hl=en) and [Jiajia Sun](https://scholar.google.com/citations?hl=en&amp;user=j8vhgpMAAAAJ). --&gt;
+&lt;p&gt;I participated in this research program led by &lt;a href=&#34;https://cainmagi.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yuchen Jin&lt;/a&gt; from the &lt;a href=&#34;https://uh.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Electrical and Computer Engineering&lt;/a&gt; under the supervision of Dr. &lt;a href=&#34;https://scholar.google.com/citations?user=a-CpL6UAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wenyi Hu&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xuqing Wu&lt;/a&gt;, and , Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiefu Chen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We proposed a robust progressive learning (RPL) method for the time-domain FWI. Although PL shows improvement on FWI, it requires repeatedly retraining the DNN with a small training dataset. There is no guarantee for the performance to be improved in each loop. The new RPL workflow utilizes an unsupervised learning method to reduce computational costs at the initialization stage. During the DNN training stage, we propose a self-regularized training scheme and use an augmented training dataset to improve the stability of the DNN model. The effectiveness of the proposed algorithm is verified by ISP and GPR inversion. The experiment results show that our proposed method successfully reconstructed models with the extrapolated low-frequency data and improved the imaging quality of FWI.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning enhanced joint imaging</title>
       <link>https://yanyanh5945.github.io/project/deep_learning_enhanced_joint_inversion/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://yanyanh5945.github.io/project/deep_learning_enhanced_joint_inversion/</guid>
@@ -48,7 +76,20 @@
 &lt;p&gt;Single cell architecture of RNN model for simulating wave propagation using FDTD.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
 &lt;!-- I participated in this research program led by [Yanyan Hu](https://scholar.google.com/citations?hl=en&amp;user=4I85QsoAAAAJ) from the [Department of Electrical and Computer Engineering](https://uh.edu/) under the supervision of Prof. [Jiefu Chen](https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;hl=en), [Xuqing Wu](https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;hl=en) and [Jiajia Sun](https://scholar.google.com/citations?hl=en&amp;user=j8vhgpMAAAAJ). --&gt;
-&lt;p&gt;We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models.&lt;/p&gt;
+&lt;p&gt;We have extended the RNN approach and use it to solve electromagnetic forward (the Maxwell’s equations) and inverse modeling problems on differentiable programming platform PyTorch. PyTorch is an ideal platform for implementing deep learning-based inversion algorithms due to its performance-focused design and equipment of AD. We compare the performance of the forward simulation of the RNN-based finite-difference-time-domain (FDTD) on PyTorch to a MATLAB implementation and also demonstrate the advantage of the RNN-based implementation in solving inverse problems. Furthermore, detailed comparison in computing the gradient, including the accuracy and efficiency, between the AD provided by PyTorch and the FD approximation is provided. Meanwhile, existing optimizers for solving inverse problems on PyTorch can be conveniently applied.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physics-driven deep-learning inverse solver for subsurface imaging</title>
+      <link>https://yanyanh5945.github.io/project/physics-driven_dnn/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/project/physics-driven_dnn/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;Diagram of the physics-driven deep neural network (PhDNN).&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;!-- I participated in this research program led by [Yanyan Hu](https://scholar.google.com/citations?hl=en&amp;user=4I85QsoAAAAJ) from the [Department of Electrical and Computer Engineering](https://uh.edu/) under the supervision of Prof. [Jiefu Chen](https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;hl=en), [Xuqing Wu](https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;hl=en) and [Jiajia Sun](https://scholar.google.com/citations?hl=en&amp;user=j8vhgpMAAAAJ). --&gt;
+&lt;p&gt;Solving inverse problems accurately and efficiently has always been an important issue in subsurface sensing. Pure data-driven machine learning methods have achieved great success in the past few years, but these methods still face questions about reliability. At the same time, extremely massive data without any physical guidance may lead to missing opportunities for breakthroughs. In this work, we propose a physics-driven deep learning framework for providing a fast and accurate surrogate to solve non-linear inverse problems. Particularly, leveraged by the forward physical model and 1D Convolutional Neural Network (CNN), the proposed method provides more reliable solutions to the inverse problem with improved performance. Applications for magnetotelluric data inversion demonstrate the effectiveness of our method.&lt;/p&gt;
 </description>
     </item>
     
@@ -58,24 +99,11 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yanyanh5945.github.io/project/pinn_for_em_simulations/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
-&lt;p&gt;PINN for solving Maxwell&amp;rsquo;s equations.&lt;/p&gt;
+&lt;p&gt;Numerical comparison of PINN and FDTD methods with conductive and nonlinear media.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
 &lt;p&gt;I participated in this research program led by &lt;a href=&#34;https://ieeexplore-ieee-org.ezproxy.lib.uh.edu/author/37086354006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pan Zhang&lt;/a&gt; from &lt;a href=&#34;https://english.upc.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;China University of Petroleum&lt;/a&gt; under the supervision of Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiefu Chen&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xuqing Wu&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore-ieee-org.ezproxy.lib.uh.edu/author/37085561779&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaogui Deng&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models. --&gt;
 &lt;p&gt;We have adopted the PINN strategy and apply it to time-domain electromagnetic simulations based on Maxwell’s equations. Compared to the existing PINN methods which are based on one variable PDE, our scheme is to solve both electric and magnetic fields simultaneously. Moreover, we will take media inhomogeneity and interface conditions into account in the loss function, while the previous PINN papers did not discuss these important issues. In the section of numerical examples, we will compare our network-based method with conventional FDTD to test the feasibility and accuracy of our work.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Supervised decent learning</title>
-      <link>https://yanyanh5945.github.io/project/sdm_for_lwd/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://yanyanh5945.github.io/project/sdm_for_lwd/</guid>
-      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
-&lt;p&gt;The deep learning enhanced joint inversion framework.&lt;/p&gt;
-&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
-&lt;!-- I participated in this research program led by [Yanyan Hu](https://scholar.google.com/citations?hl=en&amp;user=4I85QsoAAAAJ) from the [Department of Electrical and Computer Engineering](https://uh.edu/) under the supervision of Prof. [Jiefu Chen](https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;hl=en), [Xuqing Wu](https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;hl=en) and [Jiajia Sun](https://scholar.google.com/citations?hl=en&amp;user=j8vhgpMAAAAJ). --&gt;
-&lt;p&gt;We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models.&lt;/p&gt;
 </description>
     </item>
     

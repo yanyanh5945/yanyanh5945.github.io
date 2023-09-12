@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RNN | Yanyan Hu</title>
+    <link>https://yanyanh5945.github.io/tag/rnn/</link>
+      <atom:link href="https://yanyanh5945.github.io/tag/rnn/index.xml" rel="self" type="application/rss+xml" />
+    <description>RNN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yanyanh5945.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>RNN</title>
+      <link>https://yanyanh5945.github.io/tag/rnn/</link>
+    </image>
+    
+    <item>
+      <title>RNN-based wave propagation simulation</title>
+      <link>https://yanyanh5945.github.io/project/rnn_fdtd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yanyanh5945.github.io/project/rnn_fdtd/</guid>
+      <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
+&lt;p&gt;Single cell architecture of RNN model for simulating wave propagation using FDTD.&lt;/p&gt;
+&lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
+&lt;!-- I participated in this research program led by [Yanyan Hu](https://scholar.google.com/citations?hl=en&amp;user=4I85QsoAAAAJ) from the [Department of Electrical and Computer Engineering](https://uh.edu/) under the supervision of Prof. [Jiefu Chen](https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;hl=en), [Xuqing Wu](https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;hl=en) and [Jiajia Sun](https://scholar.google.com/citations?hl=en&amp;user=j8vhgpMAAAAJ). --&gt;
+&lt;p&gt;We have extended the RNN approach and use it to solve electromagnetic forward (the Maxwell’s equations) and inverse modeling problems on differentiable programming platform PyTorch. PyTorch is an ideal platform for implementing deep learning-based inversion algorithms due to its performance-focused design and equipment of AD. We compare the performance of the forward simulation of the RNN-based finite-difference-time-domain (FDTD) on PyTorch to a MATLAB implementation and also demonstrate the advantage of the RNN-based implementation in solving inverse problems. Furthermore, detailed comparison in computing the gradient, including the accuracy and efficiency, between the AD provided by PyTorch and the FD approximation is provided. Meanwhile, existing optimizers for solving inverse problems on PyTorch can be conveniently applied.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

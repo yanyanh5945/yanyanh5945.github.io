@@ -5,7 +5,7 @@
     <link>https://yanyanh5945.github.io/tag/pinn/</link>
       <atom:link href="https://yanyanh5945.github.io/tag/pinn/index.xml" rel="self" type="application/rss+xml" />
     <description>PINN</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yanyanh5945.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>PINN</title>
@@ -15,10 +15,10 @@
     <item>
       <title>PINN for EM simulations</title>
       <link>https://yanyanh5945.github.io/project/pinn_for_em_simulations/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://yanyanh5945.github.io/project/pinn_for_em_simulations/</guid>
       <description>&lt;h3 id=&#34;figure-caption&#34;&gt;Figure Caption&lt;/h3&gt;
-&lt;p&gt;PINN for solving Maxwell&amp;rsquo;s equations.&lt;/p&gt;
+&lt;p&gt;Numerical comparison of PINN and FDTD methods with conductive and nonlinear media.&lt;/p&gt;
 &lt;h3 id=&#34;research-summary&#34;&gt;Research Summary&lt;/h3&gt;
 &lt;p&gt;I participated in this research program led by &lt;a href=&#34;https://ieeexplore-ieee-org.ezproxy.lib.uh.edu/author/37086354006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pan Zhang&lt;/a&gt; from &lt;a href=&#34;https://english.upc.edu.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;China University of Petroleum&lt;/a&gt; under the supervision of Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=QOXPdn8AAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jiefu Chen&lt;/a&gt;, &lt;a href=&#34;https://scholar.google.com/citations?user=xAnmAwwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xuqing Wu&lt;/a&gt; and &lt;a href=&#34;https://ieeexplore-ieee-org.ezproxy.lib.uh.edu/author/37085561779&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaogui Deng&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- We have developed a deep learning enhanced joint inversion framework, which takes advantages of a deep neural network to achieve information extraction, fusion, and exchange. Experiments on the joint inversion of DC resistivity data and seismic travel time demonstrate the higher accuracy of recovered physical property values and better structural similarity compared to traditional independent inversions and cross gradient joint inversion. The method proposed in our work can deal with out-of-sample geological structures, different sensing configurations, and nonconforming discretization. Parallel experiments of adding a cross gradient constraint while training the network also validate the capability of our method to extract the structural information from independently recovered models. --&gt;
